@@ -1,0 +1,2001 @@
+Customer ID,Age,Current Customer,Years at address,Employment status,Country,Current debt,Income,Own home,CCJs,Loan amount,Outcome
+945780,19,Yes,2,Unemployed,UK,0,45500,Rent,1,13234,Paid
+747989,66,Yes,13,Unemployed,UK,1080,18000,Own,0,5561,Paid
+790344,48,Yes,4,Self Employed,UK,3690,47500,Rent,1,28288,Paid
+597668,67,Yes,47,Self Employed,UK,6560,36000,Mortgage,0,30199,Paid
+794971,70,No,8,Self Employed,UK,9100,50500,Own,0,35078,Paid
+563000,77,Yes,5,Self Employed,UK,8850,14000,Mortgage,2,5513,Paid
+1109089,28,Yes,3,Unemployed,UK,2150,49000,Own,1,6159,Paid
+763562,47,No,1,Unemployed,UK,2560,30500,Own,0,25813,Paid
+727243,25,Yes,8,Self Employed,UK,6130,40000,Own,0,25885,Paid
+827260,89,Yes,49,Employed,UK,1090,34500,Own,3,15398,Paid
+871886,78,Yes,46,Employed,UK,9820,36500,Own,0,18974,Defaulted
+899694,62,No,23,Self Employed,UK,980,22500,Own,0,20925,Paid
+820916,68,No,25,Employed,UK,9460,14500,Own,2,2218,Defaulted
+977821,73,Yes,28,Self Employed,UK,8550,52000,Rent,0,41973,Defaulted
+817398,72,No,25,Employed,UK,7790,51500,Rent,3,42697,Defaulted
+1095868,20,No,1,Employed,UK,30,10500,Mortgage,1,4132,Paid
+973693,43,No,18,Employed,UK,500,22500,Mortgage,3,21901,Defaulted
+687118,83,No,37,Self Employed,UK,20,27500,Own,2,22036,Defaulted
+608121,65,Yes,33,Self Employed,UK,3700,31000,Mortgage,0,19737,Paid
+784391,82,No,32,Self Employed,UK,560,54000,Mortgage,1,31498,Paid
+1072180,38,No,15,Unemployed,UK,1410,24500,Own,1,8089,Paid
+1030954,44,No,4,Self Employed,UK,1940,12500,Mortgage,3,5589,Defaulted
+892175,76,No,47,Self Employed,UK,4710,15000,Mortgage,0,318,Paid
+984774,81,No,58,Employed,UK,2620,20000,Mortgage,1,14218,Defaulted
+610796,19,Yes,2,Self Employed,UK,780,40000,Own,0,27177,Defaulted
+577499,35,No,9,Self Employed,UK,1400,33000,Own,2,17267,Defaulted
+654607,69,No,2,Self Employed,UK,10,42000,Own,0,7422,Paid
+664618,30,No,1,Self Employed,UK,150,51500,Own,0,29792,Paid
+639386,68,No,1,Self Employed,UK,3530,44500,Own,2,27439,Defaulted
+981387,26,Yes,7,Unemployed,UK,4480,26500,Own,3,9548,Defaulted
+592696,88,No,23,Self Employed,UK,4100,34500,Own,0,16079,Paid
+1041347,79,No,25,Self Employed,UK,150,52000,Mortgage,0,18079,Paid
+1092292,61,No,21,Self Employed,UK,660,50000,Rent,0,13624,Paid
+572808,66,No,35,Unemployed,UK,1030,32000,Own,0,19593,Paid
+991317,19,No,2,Self Employed,UK,1640,24000,Own,2,20772,Defaulted
+937214,72,No,4,Self Employed,UK,1050,22500,Mortgage,0,4019,Paid
+1097946,67,No,27,Self Employed,UK,8520,53000,Mortgage,2,313,Defaulted
+1083794,45,No,2,Employed,UK,1290,39500,Mortgage,1,1976,Paid
+991787,85,No,10,Self Employed,UK,3460,51000,Own,0,1584,Paid
+1108891,35,No,3,Self Employed,UK,2310,18000,Mortgage,3,9708,Defaulted
+1049352,85,Yes,23,Self Employed,UK,7160,28500,Own,0,13706,Paid
+733305,26,Yes,2,Unemployed,UK,3490,53500,Own,0,47213,Paid
+979431,56,No,37,Unemployed,UK,8380,53000,Own,2,47823,Paid
+771718,21,No,3,Self Employed,UK,8260,42000,Own,3,26356,Paid
+673173,85,No,62,Unemployed,UK,290,47500,Mortgage,0,10257,Paid
+813939,62,Yes,43,Unemployed,UK,9790,12500,Own,3,3902,Defaulted
+870360,73,Yes,30,Unemployed,UK,7240,23000,Rent,0,20771,Paid
+666371,22,Yes,3,Self Employed,UK,3880,26500,Mortgage,0,17311,Paid
+889045,85,Yes,2,Unemployed,UK,7340,46000,Own,0,28556,Paid
+619329,79,No,27,Self Employed,UK,0,43000,Rent,2,23590,Defaulted
+879806,81,No,15,Self Employed,UK,1800,17500,Own,0,2129,Paid
+946361,27,No,1,Unemployed,UK,4970,33500,Mortgage,0,23788,Defaulted
+1039259,78,No,8,Unemployed,UK,1400,53500,Own,0,12001,Paid
+979034,43,No,17,Unemployed,UK,4230,38000,Rent,3,14741,Paid
+589831,65,Yes,9,Employed,UK,8580,47500,Own,2,20023,Paid
+932081,75,No,57,Unemployed,UK,3370,42500,Own,0,28604,Paid
+788967,34,No,2,Unemployed,UK,10,43500,Mortgage,1,36778,Paid
+724546,65,Yes,46,Unemployed,France,7100,27500,Own,3,3238,Paid
+670662,87,No,51,Employed,UK,30,40500,Own,2,34004,Paid
+861461,38,Yes,7,Employed,UK,6390,10500,Mortgage,0,4966,Defaulted
+723607,32,No,14,Unemployed,UK,7410,42500,Own,1,32133,Paid
+988676,39,Yes,2,Self Employed,UK,5490,30000,Mortgage,1,13827,Defaulted
+995019,58,No,32,Self Employed,UK,6220,42500,Mortgage,0,31126,Paid
+642032,58,No,17,Employed,UK,60,45000,Rent,1,37036,Defaulted
+562809,82,Yes,64,Self Employed,UK,3320,15000,Own,2,11419,Paid
+585835,43,No,4,Self Employed,UK,2010,27500,Mortgage,3,17358,Defaulted
+936973,62,No,1,Employed,UK,920,21500,Mortgage,0,18444,Defaulted
+784682,67,No,33,Self Employed,UK,9330,47500,Own,1,5696,Paid
+1075577,39,No,16,Self Employed,UK,2480,28500,Mortgage,2,8813,Defaulted
+707817,75,No,57,Self Employed,UK,2200,42500,Own,0,14812,Paid
+770630,22,Yes,2,Self Employed,UK,3380,45000,Own,0,21107,Defaulted
+972772,58,Yes,33,Self Employed,UK,9270,23000,Mortgage,1,4732,Paid
+916104,69,Yes,46,Self Employed,UK,4370,52000,Own,0,19630,Paid
+558337,27,Yes,9,Employed,UK,5510,35500,Own,3,1072,Defaulted
+1056971,77,Yes,5,Self Employed,UK,3450,44500,Own,3,19330,Defaulted
+857554,18,No,1,Self Employed,UK,1220,37500,Mortgage,0,28323,Paid
+885331,18,Yes,1,Self Employed,UK,7690,30000,Mortgage,0,11729,Defaulted
+971376,43,No,14,Self Employed,UK,40,28500,Own,3,10003,Defaulted
+584190,33,Yes,10,Self Employed,UK,50,47500,Own,0,24551,Paid
+952069,67,Yes,32,Self Employed,UK,1640,34500,Mortgage,2,11344,Paid
+614205,69,Yes,39,Employed,UK,80,51000,Mortgage,1,13592,Paid
+852717,72,Yes,20,Employed,UK,1420,38500,Mortgage,0,1078,Paid
+638775,29,No,10,Unemployed,UK,420,54500,Rent,0,36234,Defaulted
+1106967,78,Yes,1,Unemployed,UK,9030,45500,Own,2,20275,Defaulted
+950938,44,Yes,17,Self Employed,UK,30,45500,Mortgage,1,15662,Paid
+692470,17,Yes,1,Employed,UK,8940,47000,Mortgage,0,5315,Defaulted
+675020,60,Yes,37,Unemployed,UK,290,38500,Own,0,26451,Paid
+627740,59,No,15,Employed,UK,4010,29000,Own,0,22894,Paid
+828265,40,No,9,Self Employed,UK,4450,10500,Own,0,2619,Paid
+977889,52,Yes,14,Self Employed,UK,4850,31500,Rent,0,14754,Paid
+632087,76,No,11,Employed,UK,9580,25000,Rent,1,21016,Defaulted
+916945,44,No,21,Self Employed,UK,6160,21000,Rent,2,11405,Paid
+646863,27,Yes,1,Self Employed,UK,6580,44000,Own,0,9681,Defaulted
+888473,69,Yes,13,Employed,UK,7040,37000,Mortgage,1,22632,Paid
+714321,52,Yes,14,Self Employed,UK,2330,24500,Own,0,18818,Paid
+733559,53,No,9,Self Employed,UK,40,35500,Mortgage,0,27599,Paid
+857218,68,Yes,35,Self Employed,UK,1110,32000,Own,0,22353,Paid
+796300,38,No,1,Self Employed,UK,600,19000,Own,0,5404,Defaulted
+807849,18,No,1,Self Employed,UK,1090,34500,Own,2,10288,Paid
+613238,30,No,12,Self Employed,UK,1020,28000,Own,2,14713,Defaulted
+933300,56,No,33,Self Employed,UK,160,38500,Own,0,34373,Defaulted
+961859,58,No,30,Self Employed,UK,1890,36500,Own,1,33368,Paid
+1008898,37,No,3,Unemployed,UK,8690,44000,Own,1,14937,Paid
+907510,85,No,14,Unemployed,UK,4770,50000,Own,2,32952,Defaulted
+962995,42,Yes,5,Unemployed,UK,1560,43500,Rent,3,6579,Defaulted
+785757,85,No,52,Employed,UK,9980,37000,Rent,0,9194,Paid
+883567,54,No,26,Unemployed,UK,7140,54000,Own,0,50405,Defaulted
+928301,57,Yes,14,Unemployed,UK,1020,20500,Mortgage,2,19796,Defaulted
+586905,34,No,2,Self Employed,UK,8450,45500,Own,1,40907,Defaulted
+767684,17,No,1,Unemployed,UK,7380,46500,Mortgage,2,1365,Defaulted
+1093459,42,No,13,Self Employed,UK,180,47500,Rent,2,24035,Defaulted
+989560,22,No,1,Self Employed,UK,4290,52500,Mortgage,2,1145,Defaulted
+1004017,72,No,37,Self Employed,UK,2690,46500,Mortgage,3,28848,Defaulted
+585553,19,No,1,Unemployed,UK,5610,32500,Rent,1,5150,Paid
+571683,38,No,10,Employed,UK,7120,27000,Mortgage,1,9582,Defaulted
+1058044,27,Yes,3,Employed,UK,160,45500,Own,0,38361,Paid
+1046284,50,Yes,2,Unemployed,UK,2440,51500,Mortgage,3,47751,Defaulted
+769820,88,Yes,34,Self Employed,UK,10,54500,Own,0,42197,Paid
+1060099,80,No,18,Self Employed,UK,4550,53000,Mortgage,1,49227,Paid
+825196,57,No,34,Employed,UK,780,40000,Rent,1,20918,Paid
+653444,41,Yes,15,Unemployed,UK,8800,54000,Own,0,37542,Defaulted
+1041732,62,Yes,28,Unemployed,UK,1400,39500,Own,1,10780,Paid
+983329,43,No,4,Self Employed,UK,5240,22500,Own,1,16352,Paid
+844118,62,Yes,18,Self Employed,UK,570,53000,Own,2,32777,Defaulted
+820449,43,No,18,Employed,UK,5330,33500,Own,1,21544,Defaulted
+870913,47,No,12,Self Employed,UK,0,28500,Own,1,1238,Paid
+656689,56,Yes,12,Employed,UK,1390,43500,Rent,0,354,Paid
+964848,65,No,19,Self Employed,UK,5560,28000,Rent,0,3727,Paid
+985402,28,No,8,Self Employed,UK,0,42000,Mortgage,2,20240,Defaulted
+880339,52,Yes,22,Unemployed,UK,3420,33500,Own,2,22286,Defaulted
+680695,34,Yes,14,Self Employed,UK,7090,53000,Own,2,28251,Defaulted
+1030412,39,No,2,Unemployed,UK,1060,54000,Mortgage,1,9349,Paid
+1094934,50,Yes,20,Self Employed,UK,1630,46500,Own,0,28449,Paid
+641218,32,Yes,1,Employed,UK,1250,36000,Rent,2,25021,Defaulted
+1096123,64,No,12,Self Employed,UK,8150,44000,Mortgage,1,7832,Defaulted
+1000803,54,Yes,34,Employed,UK,3660,25500,Mortgage,0,9713,Paid
+1102959,47,No,13,Unemployed,UK,6420,49500,Rent,0,21857,Defaulted
+964396,26,No,8,Unemployed,UK,380,36000,Own,0,26269,Defaulted
+862474,41,No,22,Employed,UK,130,31500,Mortgage,0,25260,Defaulted
+966391,64,Yes,6,Unemployed,UK,5000,45000,Own,1,5928,Paid
+711677,80,No,4,Unemployed,UK,50,52500,Rent,0,28034,Paid
+952608,70,No,11,Self Employed,UK,990,44500,Rent,3,29350,Defaulted
+717437,17,No,1,Self Employed,UK,5900,37500,Rent,3,35840,Defaulted
+994229,17,No,1,Self Employed,UK,100,31500,Own,3,947,Defaulted
+1057275,50,Yes,8,Unemployed,UK,4380,54500,Own,1,12464,Paid
+760702,42,No,16,Self Employed,UK,80,31000,Own,0,18932,Paid
+659646,31,Yes,5,Self Employed,UK,4580,35500,Mortgage,0,13836,Defaulted
+755253,24,Yes,4,Unemployed,UK,3910,17500,Mortgage,1,3530,Defaulted
+1060402,35,No,11,Employed,UK,520,43000,Own,1,42038,Paid
+991339,73,Yes,16,Self Employed,Germany,2170,42500,Mortgage,0,604,Paid
+795106,23,No,3,Self Employed,UK,3920,52000,Mortgage,3,38960,Defaulted
+1023381,77,Yes,59,Unemployed,UK,9180,46000,Own,1,13141,Defaulted
+825563,84,Yes,2,Unemployed,UK,9780,49000,Own,2,33427,Paid
+803893,42,No,23,Unemployed,UK,3610,27000,Own,0,24933,Defaulted
+860741,86,No,28,Employed,UK,6580,21500,Own,0,865,Paid
+569031,46,No,4,Self Employed,UK,60,25000,Rent,0,7972,Paid
+1093475,59,No,31,Self Employed,UK,3120,49000,Own,1,16309,Paid
+806279,46,No,28,Employed,UK,100,18500,Mortgage,0,7019,Defaulted
+563398,51,Yes,7,Unemployed,UK,7700,44500,Rent,3,1125,Defaulted
+1101767,83,Yes,4,Unemployed,UK,9770,23500,Own,0,14029,Defaulted
+867911,57,No,9,Self Employed,UK,5540,54500,Rent,0,49354,Paid
+946012,81,Yes,17,Self Employed,UK,4000,46000,Mortgage,3,28930,Defaulted
+618927,48,No,21,Self Employed,UK,660,37500,Own,0,26407,Paid
+969454,86,Yes,68,Unemployed,UK,1690,52000,Own,0,14310,Paid
+961628,58,Yes,28,Unemployed,UK,10,50500,Mortgage,2,6988,Paid
+627414,47,Yes,30,Employed,UK,9670,22500,Rent,2,13701,Defaulted
+593375,88,Yes,54,Unemployed,UK,830,29500,Own,0,1287,Defaulted
+844805,61,Yes,26,Self Employed,UK,0,38000,Own,0,4483,Paid
+1083724,84,No,57,Employed,UK,7300,34000,Own,1,22417,Paid
+968994,82,No,31,Employed,UK,40,38500,Rent,0,6843,Paid
+908149,77,Yes,47,Unemployed,UK,1990,37000,Mortgage,0,30181,Paid
+744844,45,No,18,Unemployed,UK,40,38500,Mortgage,3,29383,Defaulted
+590617,60,No,9,Self Employed,UK,3430,47500,Own,2,27030,Paid
+624572,80,Yes,58,Self Employed,UK,8960,42500,Own,3,39559,Defaulted
+766059,70,Yes,16,Self Employed,UK,2350,17000,Rent,1,50,Defaulted
+863196,70,No,52,Unemployed,UK,3850,15000,Mortgage,0,6423,Paid
+679077,65,No,30,Unemployed,UK,5750,39500,Own,0,26800,Paid
+833575,79,Yes,1,Unemployed,UK,6630,50000,Own,1,16705,Defaulted
+707097,48,No,27,Self Employed,UK,1330,44500,Own,1,27999,Defaulted
+653733,52,No,12,Employed,UK,2140,25000,Rent,1,2142,Defaulted
+765719,75,No,11,Self Employed,UK,2250,19000,Mortgage,2,2948,Paid
+844122,69,N,17,Employed,UK,6870,47000,Mortgage,0,23896,Defaulted
+1073242,31,Yes,14,Self Employed,UK,1000,32000,Own,0,16978,Paid
+611514,62,Yes,24,Self Employed,UK,4180,25000,Mortgage,0,12590,Paid
+1040382,77,No,55,Self Employed,UK,3000,44500,Mortgage,1,8915,Paid
+572572,36,No,12,Unemployed,UK,2660,16000,Own,0,15388,Paid
+1052153,22,Yes,2,Unemployed,UK,3730,54500,Rent,3,18408,Defaulted
+666836,64,Yes,23,Self Employed,UK,8010,50500,Own,1,4480,Defaulted
+950950,70,Yes,23,Employed,UK,1880,54000,Rent,0,30275,Paid
+871782,22,No,1,Self Employed,UK,3110,50500,Own,0,4397,Paid
+600100,62,Yes,33,Self Employed,UK,5480,46500,Own,2,23670,Defaulted
+1099114,57,Yes,36,Unemployed,UK,1180,27500,Own,1,10824,Paid
+809629,41,No,23,Self Employed,UK,510,39500,Mortgage,0,9313,Paid
+651363,28,No,9,Unemployed,UK,0,45500,Mortgage,1,28298,Paid
+871806,37,Yes,8,Self Employed,UK,5380,48500,Own,2,15354,Defaulted
+985856,36,No,10,Self Employed,UK,2150,34500,Own,0,12971,Paid
+632366,79,No,12,Employed,UK,8310,45500,Own,3,13235,Defaulted
+1026140,61,Yes,13,Employed,UK,5930,44000,Own,0,8485,Paid
+808540,74,No,8,Unemployed,UK,5460,45500,Mortgage,1,8659,Paid
+622494,68,No,29,Self Employed,UK,70,50500,Mortgage,0,6537,Paid
+971848,25,No,7,Unemployed,UK,4080,47500,Own,1,94,Paid
+940634,82,No,21,Self Employed,UK,3640,44000,Mortgage,0,19519,Paid
+740494,24,No,6,Unemployed,UK,5830,47500,Mortgage,2,26615,Paid
+1051389,80,Yes,29,Unemployed,UK,220,38000,Mortgage,0,33129,Paid
+1019205,58,Yes,3,Self Employed,UK,5060,32000,Own,0,4145,Defaulted
+868238,81,Yes,24,Self Employed,UK,4760,25500,Mortgage,1,11392,Defaulted
+723685,38,Yes,11,Employed,UK,6040,29500,Own,0,13857,Paid
+640160,51,Yes,32,Self Employed,UK,460,19500,Mortgage,1,14602,Paid
+728205,82,Yes,13,Self Employed,UK,530,28500,Own,1,4029,Paid
+792806,24,No,1,Self Employed,UK,4700,35500,Own,2,16771,Defaulted
+655090,68,Yes,12,Unemployed,UK,160,26000,Own,0,9607,Paid
+999101,77,Yes,14,Self Employed,UK,2790,36500,Own,0,19481,Defaulted
+870898,30,Yes,1,Unemployed,UK,760,33000,Own,0,8529,Paid
+930259,49,No,16,Self Employed,UK,6410,42500,Mortgage,0,6216,Paid
+633971,51,No,24,Employed,UK,9540,51500,Own,1,33593,Defaulted
+947520,76,Yes,35,Self Employed,UK,2490,47500,Mortgage,1,25381,Defaulted
+730480,58,Yes,23,Self Employed,UK,2130,34000,Own,1,24789,Paid
+1030721,69,No,29,Self Employed,UK,1390,54500,Own,1,53022,Paid
+738446,25,No,4,Self Employed,UK,360,47000,Mortgage,2,45965,Paid
+799563,77,No,60,Self Employed,UK,8090,31500,Rent,0,29043,Defaulted
+660547,89,Yes,71,Unemployed,UK,5000,29000,Mortgage,0,26393,Paid
+943878,61,No,41,Self Employed,UK,750,16500,Mortgage,0,5304,Paid
+803168,37,Yes,17,Unemployed,UK,6320,50500,Own,1,11260,Defaulted
+926252,67,No,2,Self Employed,UK,6010,21000,Own,0,6197,Paid
+896184,66,Yes,28,Self Employed,UK,3280,17000,Own,1,7275,Paid
+792396,53,No,12,Unemployed,UK,1230,54500,Rent,0,10407,Defaulted
+664616,62,No,20,Unemployed,UK,1250,23000,Own,2,3054,Defaulted
+603539,79,Yes,2,Unemployed,UK,710,36500,Rent,0,14830,Paid
+610680,17,No,1,Self Employed,UK,9780,53000,Rent,3,38905,Defaulted
+893890,66,No,32,Employed,UK,140,14500,Own,0,732,Defaulted
+1110511,26,Yes,5,Unemployed,UK,7170,52500,Mortgage,0,27826,Paid
+601299,56,Yes,36,Self Employed,UK,4040,53000,Mortgage,2,18810,Defaulted
+775222,88,No,39,Employed,UK,930,28000,Own,1,6641,Paid
+889521,55,Yes,17,Unemployed,UK,8180,32500,Rent,2,17713,Defaulted
+668919,50,Yes,27,Self Employed,UK,1140,49000,Own,1,14918,Paid
+807675,45,No,12,Self Employed,UK,1520,53000,Own,3,48799,Paid
+678376,39,No,300,Self Employed,UK,9880,34000,Own,2,21621,Defaulted
+828857,39,No,4,Self Employed,UK,9970,41000,Mortgage,3,29456,Defaulted
+930975,73,No,4,Unemployed,UK,9300,50000,Rent,0,5521,Defaulted
+671629,20,Yes,3,Self Employed,UK,60,48500,Own,3,22536,Defaulted
+623964,41,Yes,14,Self Employed,UK,120,53500,Own,1,23835,Paid
+1046558,81,Yes,46,Unemployed,UK,2370,45000,Own,0,17252,Paid
+725210,64,No,44,Unemployed,UK,380,35000,Own,2,10886,Paid
+700336,24,Yes,5,Self Employed,UK,1760,39500,Mortgage,2,21861,Paid
+1040643,24,No,3,Unemployed,UK,8990,24000,Rent,0,481,Defaulted
+1108939,58,No,39,Unemployed,UK,950,39500,Mortgage,0,23151,Defaulted
+895230,33,Yes,11,Employed,UK,560,9500,Mortgage,0,5880,Paid
+778872,38,No,2,Self Employed,UK,3860,33000,Own,0,983,Paid
+761839,18,No,1,Unemployed,UK,9800,45500,Own,0,40732,Defaulted
+1099138,28,Yes,10,Self Employed,UK,6090,14000,Own,0,4880,Paid
+700310,30,Yes,13,Unemployed,UK,5170,37500,Mortgage,1,36389,Paid
+618589,39,Yes,15,Self Employed,UK,3370,30000,Own,0,2124,Paid
+1079319,25,Yes,5,Unemployed,UK,160,50000,Own,1,38577,Paid
+660406,40,Yes,5,Unemployed,UK,210,24000,Own,0,19064,Paid
+852568,51,No,23,Unemployed,UK,5840,51000,Own,0,28359,Paid
+576570,27,No,10,Unemployed,UK,7230,50000,Own,1,33061,Paid
+1102853,54,Yes,10,Self Employed,UK,2040,36500,Own,2,18000,Defaulted
+1041965,36,Yes,6,Self Employed,UK,120,21000,Mortgage,3,11230,Defaulted
+967330,41,No,23,Self Employed,UK,1730,50500,Own,2,31588,Defaulted
+761731,87,Yes,64,Employed,UK,4380,28000,Rent,3,4750,Defaulted
+955339,45,No,13,Self Employed,UK,1590,24500,Mortgage,0,19610,Paid
+965652,49,Yes,22,Self Employed,UK,110,25000,Own,2,18260,Defaulted
+780357,57,Yes,38,Self Employed,UK,440,50500,Own,1,25985,Paid
+598761,71,Yes,34,Unemployed,UK,1570,49500,Rent,2,48100,Defaulted
+873875,39,No,8,Self Employed,UK,2580,31000,Rent,2,13474,Defaulted
+605086,85,Yes,52,Unemployed,UK,2240,16000,Own,0,11301,Defaulted
+814255,21,Yes,2,Self Employed,UK,7150,22000,Mortgage,0,2580,Paid
+1025707,60,Yes,1,Employed,UK,6530,40500,Mortgage,0,12663,Paid
+577612,62,N,21,Employed,UK,400,23500,Own,0,20829,Paid
+916259,17,No,1,Self Employed,UK,5330,52500,Mortgage,3,4282,Defaulted
+570099,86,No,54,Employed,UK,2620,51000,Rent,0,46634,Paid
+886632,37,Yes,1,Self Employed,UK,4600,28000,Own,2,16169,Defaulted
+970114,55,No,1,Self Employed,UK,2060,53000,Mortgage,0,5764,Paid
+1053088,30,No,3,Unemployed,UK,7380,31500,Own,0,13840,Defaulted
+842084,78,No,34,Self Employed,UK,5370,51000,Mortgage,0,26201,Paid
+794317,31,Yes,8,Employed,UK,1600,53000,Own,3,32584,Defaulted
+1037519,89,Yes,3,Self Employed,UK,240,52000,Own,2,7660,Defaulted
+804108,26,Yes,4,Self Employed,UK,290,52000,Own,0,48176,Paid
+789152,31,Yes,8,Self Employed,UK,700,50500,Own,0,8112,Defaulted
+1022878,42,No,7,Unemployed,UK,3430,40500,Own,0,33896,Paid
+703863,27,Yes,1,Unemployed,UK,6820,45500,Mortgage,0,364,Defaulted
+838544,23,No,4,Unemployed,UK,5000,53500,Mortgage,0,1793,Paid
+573122,34,No,11,Self Employed,UK,320,45500,Own,2,32444,Defaulted
+763149,38,No,8,Self Employed,UK,6350,39000,Rent,0,8442,Paid
+959395,18,Yes,1,Unemployed,UK,5180,28000,Rent,1,236,Paid
+873646,82,No,31,Self Employed,UK,2620,31000,Rent,0,18841,Paid
+893869,60,Yes,6,Unemployed,UK,1490,36000,Mortgage,0,2912,Defaulted
+1101812,65,Yes,10,Self Employed,UK,7840,48000,Own,0,35,Paid
+609289,44,No,10,Unemployed,UK,110,17500,Own,0,5256,Paid
+721359,80,Yes,12,Employed,UK,5110,46500,Mortgage,0,16516,Paid
+933691,53,Yes,4,Self Employed,UK,6290,38500,Rent,3,11454,Defaulted
+656867,25,Yes,8,Self Employed,UK,3960,30500,Own,2,3895,Paid
+688861,64,Yes,24,Self Employed,UK,950,29000,Own,0,15844,Paid
+825294,75,No,13,Self Employed,UK,3400,43000,Mortgage,2,8763,Defaulted
+1070539,68,Yes,51,Employed,UK,100,52500,Mortgage,0,26198,Defaulted
+605883,45,Yes,24,Unemployed,UK,7500,48500,Rent,1,9990,Paid
+924830,43,Yes,24,Self Employed,UK,0,24000,Own,0,7152,Paid
+688707,21,No,2,Unemployed,UK,220,42500,Own,1,12888,Paid
+971123,43,No,14,Unemployed,UK,1380,49000,Own,2,43222,Defaulted
+805408,23,Yes,4,Employed,UK,210,49000,Own,2,10045,Paid
+928364,68,Yes,30,Unemployed,UK,750,35500,Own,0,13094,Paid
+787984,77,Yes,45,Employed,UK,570,49000,Mortgage,0,12656,Paid
+621833,86,Yes,50,Self Employed,UK,2710,46000,Own,2,2729,Defaulted
+810887,40,Yes,8,Unemployed,UK,8310,38000,Mortgage,1,6237,Defaulted
+675948,47,Yes,17,Self Employed,UK,1830,41500,Rent,3,2419,Defaulted
+710927,84,Yes,43,Self Employed,UK,4800,53000,Own,0,32495,Paid
+688001,39,No,13,Unemployed,UK,9520,48000,Rent,2,18866,Defaulted
+967174,33,No,10,Self Employed,UK,8680,51000,Mortgage,0,25970,Paid
+714939,22,No,4,Self Employed,UK,4830,45500,Own,1,9610,Paid
+1098081,33,Yes,13,Self Employed,UK,3570,31500,Own,1,22562,Defaulted
+994490,67,No,28,Self Employed,UK,10,54500,Own,0,28699,Defaulted
+1044296,45,Yes,1,Unemployed,UK,4420,49000,Own,0,35694,Paid
+1036016,77,No,34,Self Employed,UK,330,32500,Mortgage,0,23443,Defaulted
+802874,81,Yes,36,Employed,UK,1400,49000,Mortgage,0,4639,Paid
+584344,69,No,11,Self Employed,UK,0,52000,Mortgage,0,12758,Paid
+975168,46,No,8,Self Employed,UK,9170,35000,Rent,0,12300,Paid
+652278,48,No,7,Unemployed,UK,690,23500,Own,2,8184,Defaulted
+888031,46,Yes,11,Self Employed,UK,400,42500,Rent,1,24909,Paid
+730249,80,Yes,25,Self Employed,UK,7040,45500,Mortgage,1,31037,Paid
+929364,71,Yes,2,Self Employed,UK,1400,44000,Mortgage,1,43029,Paid
+717439,26,Yes,6,Self Employed,UK,7000,52000,Own,0,43816,Paid
+980660,51,No,26,Self Employed,UK,3180,43000,Own,0,21276,Defaulted
+887786,43,Yes,21,Self Employed,UK,5170,33000,Own,0,10696,Paid
+1013379,34,Yes,5,Unemployed,UK,3880,39500,Mortgage,1,28915,Paid
+831959,29,No,2,Self Employed,UK,2110,53500,Mortgage,3,38479,Defaulted
+611927,68,H,6,Unemployed,UK,5340,31000,Rent,2,21572,Defaulted
+1032666,19,Yes,2,Unemployed,UK,3120,28500,Own,0,22479,Defaulted
+1014697,84,No,21,Unemployed,UK,9810,10000,Own,0,4793,Defaulted
+740359,67,No,49,Employed,UK,1860,45000,Own,0,2148,Paid
+1023722,61,No,9,Self Employed,UK,6410,52000,Mortgage,2,37846,Defaulted
+1039818,68,No,16,Employed,UK,480,37000,Own,2,3000,Paid
+683845,19,No,2,Unemployed,UK,7350,46500,Own,1,17791,Paid
+1094806,43,No,10,Self Employed,UK,1790,49500,Mortgage,0,39247,Paid
+692144,46,No,26,Self Employed,UK,7920,42000,Own,0,23247,Paid
+640117,47,No,5,Unemployed,UK,3560,27000,Own,0,8699,Paid
+555574,27,No,8,Unemployed,UK,650,49500,Rent,1,34001,Defaulted
+1103323,88,Yes,20,Unemployed,UK,8940,46000,Mortgage,3,15045,Defaulted
+787659,50,Yes,13,Self Employed,UK,4060,33000,Mortgage,3,12555,Defaulted
+651410,73,Yes,38,Unemployed,UK,220,33500,Own,2,29870,Defaulted
+994657,19,No,1,Self Employed,UK,2380,12500,Own,3,8817,Defaulted
+646681,71,Yes,4,Self Employed,UK,280,42500,Own,0,7009,Paid
+1005610,89,Yes,7,Self Employed,UK,2030,33000,Mortgage,1,12213,Paid
+571409,55,Yes,6,Self Employed,UK,3130,48000,Own,3,28652,Paid
+706920,84,No,42,Employed,UK,1730,30500,Own,0,5410,Paid
+843527,18,Yes,1,Self Employed,UK,370,17000,Own,0,2478,Paid
+731602,24,No,2,Unemployed,UK,80,29500,Mortgage,1,18010,Paid
+786325,83,Yes,66,Self Employed,UK,200,29500,Mortgage,1,23172,Paid
+929744,51,No,10,Unemployed,UK,1720,32500,Own,3,13557,Defaulted
+955373,80,No,6,Self Employed,UK,9940,45500,Mortgage,0,19196,Paid
+834294,32,Yes,13,Self Employed,UK,2400,41500,Own,1,15147,Paid
+855779,72,No,55,Employed,UK,3410,13000,Own,3,8360,Defaulted
+688515,73,No,34,Self Employed,UK,2150,48000,Own,2,45516,Defaulted
+594488,82,Yes,59,Self Employed,UK,6100,37500,Mortgage,2,33225,Defaulted
+576865,77,Yes,2,Self Employed,UK,2240,49000,Mortgage,0,22937,Defaulted
+979868,76,Yes,7,Self Employed,UK,0,47000,Own,1,22921,Defaulted
+716374,52,Yes,17,Self Employed,UK,6080,35000,Rent,1,25171,Paid
+585587,49,Yes,3,Self Employed,UK,1790,39000,Mortgage,2,25163,Defaulted
+780555,84,Yes,45,Unemployed,UK,590,35500,Mortgage,3,15581,Paid
+1061267,19,No,1,Self Employed,UK,250,49000,Rent,1,39384,Paid
+933203,50,No,18,Employed,UK,70,49500,Own,0,23379,Paid
+668501,72,Yes,44,Unemployed,UK,0,47000,Own,0,44165,Paid
+657204,68,No,39,Self Employed,UK,4940,16000,Mortgage,2,274,Defaulted
+842819,84,Yes,7,Unemployed,UK,1230,46000,Own,3,19059,Defaulted
+903805,54,Yes,33,Self Employed,UK,7970,13500,Own,0,11165,Paid
+805251,56,No,33,Unemployed,UK,3900,36000,Mortgage,0,10904,Paid
+984606,60,Yes,16,Unemployed,UK,2650,47000,Mortgage,0,13015,Paid
+573453,77,No,37,Self Employed,UK,3940,54000,Rent,2,26108,Defaulted
+926301,36,Yes,14,Self Employed,UK,0,43000,Own,0,22764,Paid
+933048,85,No,60,Unemployed,UK,910,34500,Own,2,8313,Defaulted
+1071142,39,Yes,11,Unemployed,UK,8380,51500,Own,0,10400,Paid
+837396,58,Yes,34,Self Employed,UK,890,48500,Own,1,21590,Paid
+568209,54,Yes,10,Unemployed,UK,0,16500,Mortgage,0,9475,Paid
+614105,66,No,18,Self Employed,UK,530,54000,Own,0,4865,Paid
+742297,43,No,1,Self Employed,UK,5740,18500,Own,1,376,Paid
+1084031,28,No,1,Employed,UK,3820,16500,Mortgage,0,1416,Defaulted
+929299,48,Yes,14,Unemployed,UK,6860,46500,Own,0,38420,Paid
+722046,40,No,250,Unemployed,UK,920,30000,Mortgage,0,17212,Defaulted
+655652,53,Yes,20,Self Employed,UK,10,46500,Mortgage,3,13175,Defaulted
+955008,31,Yes,2,Unemployed,UK,1960,54000,Own,0,4512,Paid
+919163,82,No,9,Self Employed,UK,7170,31000,Rent,1,9170,Defaulted
+879639,56,Yes,35,Employed,UK,8190,27000,Own,0,23945,Defaulted
+982737,48,Yes,2,Self Employed,UK,2500,50000,Rent,1,30985,Paid
+720083,69,No,7,Self Employed,UK,60,39000,Own,0,29966,Paid
+1076440,56,Yes,38,Self Employed,UK,5810,43500,Own,0,37431,Paid
+822564,78,No,17,Employed,UK,5270,36500,Own,0,25916,Paid
+962904,22,No,4,Self Employed,UK,170,22500,Own,1,15416,Paid
+630674,42,No,5,Unemployed,UK,4670,48000,Mortgage,3,6454,Defaulted
+604556,85,Yes,31,Unemployed,UK,7980,49000,Own,2,41080,Paid
+1095525,81,No,53,Self Employed,UK,3510,19000,Own,1,7579,Paid
+1107077,22,No,4,Employed,UK,1340,36500,Own,2,9974,Paid
+914981,61,No,24,Self Employed,UK,7350,35000,Mortgage,0,3129,Paid
+799432,59,Yes,1,Self Employed,UK,5220,39000,Own,0,4701,Paid
+992208,37,No,6,Unemployed,UK,3770,44000,Own,0,16946,Paid
+1025576,26,No,6,Employed,UK,2360,49500,Own,0,26230,Defaulted
+577457,80,No,40,Unemployed,UK,8800,54000,Own,2,1142,Defaulted
+981762,29,Yes,12,Unemployed,UK,2280,46500,Own,2,5760,Defaulted
+607388,62,No,5,Self Employed,UK,5980,53500,Mortgage,3,645,Defaulted
+1055483,39,No,18,Self Employed,UK,2730,53000,Mortgage,0,35749,Paid
+1034241,58,Y,20,Self Employed,UK,1270,24000,Rent,2,5164,Defaulted
+1098683,85,No,18,Unemployed,UK,2070,24000,Own,0,9708,Defaulted
+1048336,43,Yes,25,Self Employed,UK,2170,42500,Own,1,24779,Paid
+965011,29,Yes,10,Unemployed,UK,1580,53500,Rent,0,24502,Paid
+666907,42,No,17,Self Employed,UK,2410,51500,Own,0,34716,Paid
+698569,79,Yes,56,Unemployed,UK,330,42500,Own,1,13856,Paid
+1013212,43,No,9,Self Employed,UK,9290,29500,Mortgage,0,5050,Defaulted
+1053479,66,Yes,6,Self Employed,UK,7840,16000,Own,0,11187,Paid
+968107,48,Yes,5,Employed,UK,8060,43500,Mortgage,1,5283,Defaulted
+763673,71,No,24,Unemployed,UK,3700,28500,Mortgage,1,18538,Defaulted
+736220,25,Yes,8,Unemployed,UK,740,49500,Mortgage,0,39236,Defaulted
+924869,64,No,5,Self Employed,UK,4700,12000,Own,0,9842,Paid
+1043281,66,No,8,Self Employed,UK,4760,10000,Mortgage,3,9257,Defaulted
+1050859,61,No,35,Self Employed,UK,7350,20000,Own,0,1714,Paid
+673526,83,Yes,20,Unemployed,UK,8020,49500,Own,3,29880,Defaulted
+1097027,19,Yes,1,Self Employed,UK,3290,45000,Own,3,18437,Paid
+703150,49,No,23,Employed,UK,3760,46500,Rent,0,44903,Paid
+760050,66,Yes,10,Unemployed,UK,5810,51000,Own,0,6514,Defaulted
+850328,28,No,1,Employed,UK,2360,50500,Mortgage,0,31819,Defaulted
+636307,36,Yes,18,Self Employed,UK,4030,44500,Own,0,38561,Paid
+652385,71,Yes,7,Employed,UK,1360,47500,Rent,3,14293,Defaulted
+794162,65,Yes,1,Self Employed,UK,580,53500,Mortgage,0,7884,Paid
+649405,31,Yes,9,Employed,UK,1930,41500,Mortgage,2,36367,Defaulted
+962136,30,No,11,Self Employed,UK,5900,38500,Own,0,17567,Paid
+1108728,89,No,36,Unemployed,UK,2220,18500,Own,3,13110,Paid
+669919,28,Yes,1,Self Employed,UK,2260,35500,Rent,3,22006,Defaulted
+570726,45,No,10,Unemployed,UK,600,44000,Rent,0,4424,Paid
+676473,67,Yes,15,Self Employed,UK,9150,32000,Mortgage,2,6175,Defaulted
+991251,29,Yes,2,Self Employed,UK,1070,15000,Own,2,5860,Defaulted
+1010227,48,Yes,2,Self Employed,UK,1840,30000,Mortgage,3,3024,Defaulted
+1015051,60,Yes,31,Retired,UK,7150,53500,Own,0,22864,Defaulted
+666551,56,Yes,32,Self Employed,UK,0,52500,Own,3,35471,Defaulted
+690428,55,No,31,Unemployed,UK,1480,43500,Mortgage,0,30669,Defaulted
+888784,84,Yes,51,Self Employed,UK,400,19500,Mortgage,2,13763,Defaulted
+621819,48,Yes,2,Self Employed,UK,5010,50500,Own,2,35083,Defaulted
+850629,20,No,2,Self Employed,UK,4340,54000,Own,1,34963,Paid
+867947,51,Yes,9,Self Employed,UK,4410,48000,Own,0,19924,Paid
+660300,72,No,36,Unemployed,UK,1710,46500,Own,0,37505,Defaulted
+997089,46,Yes,20,Employed,UK,5930,13500,Mortgage,0,5960,Paid
+1013603,74,No,55,Unemployed,UK,9860,36000,Own,2,12609,Defaulted
+813290,41,Yes,5,Self Employed,UK,460,49500,Mortgage,2,4489,Defaulted
+931991,38,Yes,1,Unemployed,UK,1100,17000,Own,1,8275,Paid
+817693,79,No,62,Self Employed,UK,8360,15500,Mortgage,3,6315,Defaulted
+863394,89,Yes,19,Self Employed,UK,450,40000,Mortgage,1,22093,Defaulted
+648929,45,Yes,14,Self Employed,UK,3890,28000,Mortgage,0,21474,Paid
+922688,60,No,35,Unemployed,UK,8240,19500,Own,0,9654,Defaulted
+923323,73,Yes,35,Self Employed,UK,1020,24000,Own,2,21290,Defaulted
+744545,64,Yes,35,Unemployed,UK,8370,46000,Mortgage,1,34096,Defaulted
+569085,58,No,33,Employed,UK,6660,53500,Own,3,5759,Paid
+995796,30,Yes,10,Unemployed,UK,6110,44500,Own,0,13273,Paid
+1038625,82,No,48,Self Employed,UK,1040,50500,Mortgage,0,32204,Paid
+857129,20,No,3,Unemployed,UK,6620,53000,Mortgage,0,115,Defaulted
+697604,49,Yes,1,Self Employed,UK,830,30500,Rent,1,4751,Paid
+665406,23,Yes,5,Unemployed,UK,6310,17500,Own,1,9210,Paid
+936584,29,No,2,Self Employed,UK,110,41000,Own,0,19800,Paid
+1031445,24,No,5,Self Employed,UK,8190,16500,Own,2,8079,Defaulted
+680058,72,Yes,32,Unemployed,UK,0,52500,Rent,3,33236,Paid
+924395,27,No,6,Self Employed,UK,7160,48000,Mortgage,2,18536,Paid
+772478,61,Yes,18,Self Employed,UK,7390,20000,Own,1,6693,Paid
+891359,38,No,21,Unemployed,UK,4520,15500,Mortgage,2,13930,Defaulted
+621518,24,No,6,Self Employed,UK,690,53500,Mortgage,3,10278,Defaulted
+990971,62,Yes,31,Self Employed,UK,2810,36000,Mortgage,0,26791,Defaulted
+962859,29,Yes,7,Self Employed,UK,3990,21000,Rent,3,1774,Defaulted
+961052,49,No,4,Self Employed,UK,4340,50000,Own,1,26570,Defaulted
+665690,83,Yes,38,Unemployed,UK,1030,40500,Mortgage,2,18515,Defaulted
+890248,62,Yes,10,Employed,UK,1460,21500,Own,0,15331,Paid
+1049099,17,Yes,1,Self Employed,UK,0,34500,Own,0,25799,Paid
+795764,48,Yes,11,Self Employed,UK,9240,50000,Mortgage,0,55,Paid
+934499,29,Yes,4,Self Employed,UK,1600,13000,Own,0,769,Paid
+811466,28,Yes,5,Self Employed,UK,500,52000,Mortgage,0,26772,Paid
+1090872,46,Yes,27,Self Employed,UK,1960,42500,Mortgage,3,4396,Defaulted
+687009,41,Yes,7,Unemployed,UK,3590,51500,Mortgage,0,9380,Paid
+1078566,33,No,9,Unemployed,UK,5790,54500,Mortgage,3,21848,Defaulted
+917876,79,No,32,Employed,UK,0,49000,Own,0,16350,Paid
+1014154,24,Yes,5,Employed,UK,7060,42500,Mortgage,1,1048,Paid
+873607,32,No,14,Self Employed,UK,8500,49500,Own,3,47992,Paid
+604003,82,No,51,Self Employed,UK,580,46500,Rent,3,2971,Defaulted
+649778,52,No,22,Self Employed,UK,5100,42000,Own,0,40788,Paid
+818622,59,No,37,Unemployed,UK,3400,20500,Own,2,9202,Defaulted
+1054608,67,No,44,Unemployed,UK,1000,34500,Mortgage,0,20360,Paid
+617428,23,No,6,Self Employed,UK,650,22500,Mortgage,1,12614,Paid
+800126,70,Yes,45,Employed,UK,240,29500,Own,1,9026,Paid
+783747,47,Yes,27,Unemployed,UK,710,52000,Own,1,16151,Defaulted
+962679,35,Yes,14,Self Employed,UK,210,35500,Mortgage,3,23070,Defaulted
+714349,66,No,1,Self Employed,UK,1930,54500,Own,2,45667,Defaulted
+682749,19,No,1,Employed,UK,6650,53000,Rent,1,52661,Defaulted
+716341,61,Yes,34,Self Employed,UK,8540,46500,Rent,1,17232,Paid
+996495,55,Yes,13,Unemployed,UK,510,47000,Rent,0,1103,Paid
+581206,78,Yes,9,Unemployed,UK,4710,46500,Own,0,22845,Paid
+831588,48,No,24,Self Employed,UK,9050,35000,Own,0,25761,Defaulted
+981673,86,No,8,Unemployed,UK,710,31000,Mortgage,0,23980,Paid
+772206,22,No,2,Self Employed,UK,160,16500,Own,0,2434,Paid
+1004385,55,No,32,Self Employed,UK,4530,51500,Own,0,41804,Paid
+888290,82,Yes,29,Self Employed,UK,8480,50500,Rent,0,17915,Defaulted
+774258,72,No,37,Employed,UK,100,47500,Own,0,45561,Paid
+1007361,45,No,2,Unemployed,UK,450,28000,Rent,3,21750,Defaulted
+889839,22,Yes,2,Self Employed,UK,5780,42500,Mortgage,1,4649,Paid
+917493,88,Yes,38,Self Employed,UK,80,16500,Own,0,9770,Paid
+781115,23,No,1,Unemployed,UK,2810,46500,Mortgage,2,35765,Defaulted
+925820,72,Yes,10,Unemployed,UK,1440,31000,Own,0,23241,Paid
+1035610,25,Yes,7,Unemployed,UK,10,53000,Own,0,15015,Paid
+637495,29,No,10,Employed,UK,1120,35000,Mortgage,0,19555,Paid
+574015,43,Yes,21,Unemployed,UK,130,36500,Own,3,4904,Paid
+830941,68,No,43,Self Employed,UK,5610,34500,Own,1,23369,Defaulted
+876872,35,Yes,6,Employed,UK,7530,25000,Mortgage,1,3760,Paid
+904732,68,No,13,Self Employed,UK,1120,38000,Rent,0,11277,Paid
+583285,41,No,15,Employed,UK,0,45000,Own,0,4537,Defaulted
+915546,44,No,15,Unemployed,UK,4070,29000,Own,1,22985,Paid
+606843,50,Yes,10,Self Employed,UK,130,16500,Mortgage,1,11179,Paid
+626829,33,No,4,Self Employed,UK,9980,46000,Own,0,19991,Defaulted
+930194,54,No,33,Unemployed,UK,2640,35500,Mortgage,1,23907,Paid
+1021013,41,No,16,Self Employed,UK,8720,52000,Own,2,30255,Defaulted
+1104247,79,No,34,Self Employed,UK,1590,44500,Own,0,33089,Paid
+953789,33,H,4,Employed,UK,4970,29500,Own,3,10010,Defaulted
+819149,79,Yes,10,Unemployed,UK,1040,39500,Own,2,25703,Defaulted
+1058734,25,No,4,Self Employed,UK,2310,46000,Mortgage,1,24916,Paid
+784607,84,Yes,58,Self Employed,UK,850,31000,Own,1,2218,Paid
+920934,61,No,44,Self Employed,UK,10,47500,Own,1,1729,Paid
+952664,87,Yes,58,Self Employed,UK,4850,47000,Mortgage,0,43779,Paid
+879544,31,No,5,Self Employed,UK,970,43500,Rent,2,29795,Defaulted
+962731,34,Yes,12,Employed,UK,540,38000,Own,1,3577,Paid
+1048639,63,No,45,Employed,UK,1490,48500,Mortgage,0,21215,Paid
+900538,38,Yes,20,Self Employed,UK,5610,48500,Mortgage,2,47300,Defaulted
+619525,34,No,3,Unemployed,UK,2490,30000,Own,0,13667,Paid
+708248,58,Yes,18,Employed,UK,2270,49500,Mortgage,1,24549,Paid
+570807,80,Yes,46,Self Employed,UK,4400,36500,Own,2,2294,Defaulted
+884048,80,Yes,53,Unemployed,UK,3410,37500,Own,1,4050,Paid
+576051,28,No,7,Unemployed,UK,110,50000,Own,0,45385,Paid
+937457,65,Yes,32,Self Employed,UK,1090,53000,Own,0,43416,Paid
+656654,43,No,7,Unemployed,UK,330,21500,Own,2,12059,Defaulted
+765562,43,Yes,12,Employed,UK,4410,23500,Own,2,14934,Defaulted
+821850,24,No,1,Unemployed,UK,10,52500,Mortgage,1,2147,Paid
+679655,39,No,19,Self Employed,UK,7060,28000,Mortgage,0,5889,Paid
+671153,76,Yes,46,Employed,UK,5700,40000,Own,0,15748,Paid
+711161,44,No,24,Self Employed,UK,1770,51500,Own,2,48690,Defaulted
+1104611,84,No,48,Self Employed,UK,1160,36500,Own,3,24883,Defaulted
+604695,29,Yes,3,Self Employed,UK,300,17000,Own,1,12198,Paid
+956017,57,Yes,31,Self Employed,UK,8490,44000,Own,2,41805,Defaulted
+954349,38,No,1,Unemployed,UK,6340,45500,Own,2,14626,Defaulted
+1031253,19,No,1,Self Employed,UK,80,26500,Rent,3,13298,Defaulted
+619970,31,No,13,Self Employed,UK,3490,32500,Mortgage,2,16794,Defaulted
+773116,89,Yes,38,Self Employed,UK,40,44500,Mortgage,3,2081,Defaulted
+1010141,25,Yes,4,Unemployed,UK,8980,51500,Own,2,13533,Paid
+690067,35,Yes,7,Unemployed,UK,2760,39500,Mortgage,1,12733,Defaulted
+1007402,44,Yes,3,Self Employed,UK,4200,40000,Rent,0,7676,Paid
+613362,51,Yes,1,Unemployed,UK,0,30500,Own,3,20144,Paid
+609972,82,Yes,32,Unemployed,UK,6200,46500,Rent,3,2704,Defaulted
+931633,84,Yes,14,Self Employed,UK,1040,47000,Own,2,29753,Paid
+792692,60,Yes,25,Self Employed,UK,6230,31500,Own,1,25022,Paid
+830867,44,Yes,7,Self Employed,UK,5560,21500,Mortgage,0,21396,Paid
+662326,78,No,16,Self Employed,UK,290,52000,Own,2,7987,Defaulted
+634458,42,Yes,4,Self Employed,UK,1900,48500,Own,2,2929,Defaulted
+577403,73,Yes,24,Unemployed,UK,40,36000,Own,1,29428,Paid
+704926,62,Yes,29,Self Employed,UK,3460,47000,Mortgage,0,31418,Paid
+818208,77,No,53,Unemployed,UK,2520,51000,Mortgage,0,32382,Defaulted
+861238,53,Yes,18,Self Employed,UK,1420,48000,Own,0,22975,Paid
+988659,34,No,10,Unemployed,UK,890,37000,Own,0,20762,Paid
+734806,76,No,34,Employed,UK,4700,49000,Mortgage,0,25572,Paid
+610767,18,Yes,1,Unemployed,UK,4740,51000,Mortgage,0,43265,Defaulted
+878136,50,No,21,Self Employed,UK,240,42000,Own,0,2960,Defaulted
+890840,68,No,3,Self Employed,UK,8350,47000,Rent,1,30228,Paid
+979664,58,No,31,Self Employed,UK,9690,39000,Own,0,1717,Defaulted
+761404,75,Yes,55,Unemployed,UK,3230,43500,Own,0,38107,Paid
+657522,76,No,3,Self Employed,UK,1440,21500,Own,0,5087,Paid
+1079138,47,No,21,Self Employed,UK,7760,36500,Mortgage,1,16498,Paid
+844233,21,Yes,4,Employed,UK,630,43500,Mortgage,1,4836,Paid
+715721,44,No,23,Self Employed,UK,2050,21000,Own,0,3608,Paid
+699166,64,No,11,Unemployed,UK,9830,40000,Own,2,18502,Defaulted
+938669,44,No,5,Self Employed,UK,9420,20000,Own,1,707,Defaulted
+856519,80,No,41,Employed,UK,0,35000,Mortgage,2,17098,Paid
+984568,70,Yes,4,Employed,UK,10,27500,Own,0,5101,Paid
+887421,57,No,37,Self Employed,UK,60,50000,Own,0,38141,Paid
+864465,76,Yes,50,Self Employed,UK,810,42000,Own,2,18146,Defaulted
+920867,46,No,2,Self Employed,UK,2300,29500,Mortgage,1,8007,Defaulted
+778207,54,Yes,9,Unemployed,UK,2420,41000,Mortgage,0,10891,Paid
+685309,71,No,21,Self Employed,UK,9540,51500,Mortgage,2,8960,Defaulted
+765395,75,Yes,45,Self Employed,UK,1150,11000,Own,0,4863,Paid
+1019113,22,No,2,Unemployed,UK,0,49500,Own,0,39437,Paid
+926739,36,Yes,17,Self Employed,UK,640,30000,Mortgage,0,9415,Paid
+1095095,43,No,26,Unemployed,UK,0,45500,Own,3,32940,Defaulted
+981596,59,No,41,Self Employed,France,890,22500,Mortgage,2,22152,Defaulted
+978099,23,Yes,6,Self Employed,UK,240,19500,Rent,1,16216,Defaulted
+899291,23,No,4,Unemployed,UK,3690,38500,Mortgage,1,15679,Paid
+811560,78,No,44,Unemployed,UK,3930,42000,Rent,2,28564,Defaulted
+1090039,45,Yes,20,Unemployed,UK,3000,53500,Rent,0,51021,Paid
+687406,35,Yes,9,Self Employed,UK,1010,53500,Own,0,14926,Paid
+592063,86,Yes,59,Unemployed,UK,0,35500,Own,0,25369,Paid
+695348,77,Yes,30,Self Employed,UK,0,32500,Mortgage,1,26683,Paid
+696587,21,Yes,4,Self Employed,UK,4890,38500,Mortgage,1,19318,Paid
+870478,56,Yes,26,Employed,UK,3670,52000,Mortgage,1,39225,Paid
+733096,68,Yes,37,Unemployed,UK,0,54000,Own,1,21218,Paid
+966977,56,No,12,Unemployed,UK,3210,28000,Own,3,20686,Defaulted
+1036434,67,No,9,Unemployed,UK,8070,50500,Own,1,33533,Defaulted
+716450,39,Yes,7,Self Employed,UK,870,49500,Own,0,19545,Paid
+978685,17,No,1,Employed,UK,8430,220000,Own,1,18005,Defaulted
+686026,87,Yes,61,Employed,UK,7430,26000,Own,0,3513,Paid
+760446,74,Yes,29,Unemployed,UK,3410,41000,Own,0,11284,Paid
+733696,52,Yes,7,Employed,UK,610,39500,Own,1,22237,Paid
+840826,86,Yes,24,Self Employed,UK,8050,49000,Own,1,5917,Paid
+756770,55,No,31,Unemployed,UK,8140,30000,Own,0,18584,Defaulted
+1071084,89,Yes,43,Self Employed,UK,8260,38000,Own,0,7582,Defaulted
+1017544,71,Yes,46,Self Employed,UK,120,43500,Mortgage,0,9506,Paid
+1096460,72,Yes,29,Employed,UK,6430,54000,Mortgage,3,39161,Defaulted
+919239,21,No,3,Unemployed,UK,1670,19000,Mortgage,0,12497,Defaulted
+700578,39,No,11,Self Employed,UK,2870,32500,Own,0,2267,Defaulted
+651497,44,Yes,6,Unemployed,UK,0,44500,Own,2,33481,Paid
+1045310,24,Yes,5,Employed,UK,1910,37500,Rent,1,24000,Paid
+610579,25,No,3,Self Employed,UK,4240,54000,Rent,2,40215,Defaulted
+667867,40,No,23,Self Employed,UK,1610,36500,Mortgage,0,13744,Paid
+810286,33,Yes,1,Unemployed,UK,4330,36500,Own,0,21503,Paid
+869211,51,No,15,Self Employed,UK,300,54500,Rent,0,47985,Paid
+943546,30,Yes,10,Employed,UK,3910,44000,Mortgage,0,21333,Paid
+580118,23,No,1,Unemployed,UK,360,49500,Mortgage,1,6018,Paid
+957917,41,Yes,7,Self Employed,UK,140,22500,Rent,0,2432,Defaulted
+637188,47,No,26,Unemployed,UK,1820,16500,Own,2,14895,Defaulted
+811861,63,No,14,Self Employed,UK,2280,23500,Mortgage,1,5309,Defaulted
+741729,65,No,1,Self Employed,UK,7560,13500,Own,1,9556,Paid
+887987,55,Yes,30,Self Employed,UK,2290,20500,Own,1,110,Paid
+930836,20,No,1,Self Employed,UK,1590,47000,Mortgage,0,8877,Defaulted
+917195,41,No,17,Unemployed,UK,8550,52000,Mortgage,1,32625,Defaulted
+921225,72,No,51,Unemployed,UK,6040,20500,Own,0,2107,Paid
+661461,34,Yes,7,Self Employed,UK,250,53500,Own,0,3652,Paid
+797456,29,No,2,Self Employed,UK,160,38500,Mortgage,3,20236,Defaulted
+783571,88,Yes,6,Self Employed,UK,90,10500,Own,2,6275,Defaulted
+764209,21,No,1,Self Employed,UK,4280,37000,Own,0,31665,Paid
+1078340,57,No,1,Self Employed,UK,990,46500,Rent,0,693,Paid
+733675,34,No,8,Employed,UK,2200,35000,Rent,0,15151,Paid
+612360,48,No,29,Employed,UK,4160,34500,Rent,1,30408,Defaulted
+641028,63,No,1,Self Employed,UK,0,43500,Rent,0,13941,Paid
+944229,51,Yes,4,Self Employed,UK,270,29500,Mortgage,1,18709,Paid
+979321,67,No,8,Self Employed,UK,9960,50500,Rent,2,3187,Defaulted
+776076,25,No,2,Self Employed,UK,3300,20500,Own,0,9288,Defaulted
+818331,61,No,38,Employed,UK,1770,40000,Own,0,14616,Paid
+1032192,45,Yes,3,Unemployed,UK,5200,51500,Mortgage,1,15947,Paid
+635990,78,Yes,1,Self Employed,UK,8980,29500,Mortgage,0,23517,Defaulted
+1064211,65,Yes,23,Self Employed,UK,3850,44000,Mortgage,0,2393,Paid
+825116,80,No,8,Unemployed,UK,760,53500,Own,0,14486,Paid
+751219,50,No,29,Self Employed,UK,1000,31000,Mortgage,1,19521,Defaulted
+1058063,31,Yes,10,Unemployed,UK,530,50500,Own,0,39093,Defaulted
+930564,47,No,28,Self Employed,UK,9940,17500,Own,0,4455,Paid
+990112,26,Yes,1,Unemployed,UK,5890,45500,Mortgage,2,17085,Paid
+952060,88,Yes,58,Self Employed,UK,3980,54500,Own,3,24770,Defaulted
+907403,30,Yes,3,Employed,UK,10,47000,Rent,0,38944,Paid
+1104344,71,No,31,Self Employed,UK,6350,18000,Rent,1,10024,Paid
+573627,39,Yes,19,Self Employed,UK,1770,54000,Mortgage,2,30523,Defaulted
+684733,27,Yes,3,Self Employed,UK,3750,45500,Mortgage,0,25872,Defaulted
+852896,64,No,33,Unemployed,UK,9680,30500,Own,0,1575,Defaulted
+754734,43,No,2,Self Employed,UK,9450,38000,Own,0,18411,Defaulted
+624034,19,No,1,Self Employed,UK,1870,16500,Mortgage,1,292,Paid
+809633,70,No,12,Unemployed,UK,1130,20000,Mortgage,0,4280,Defaulted
+625698,17,Yes,1,Unemployed,UK,510,40500,Mortgage,0,18255,Defaulted
+562557,29,Yes,8,Employed,UK,340,27500,Mortgage,0,15941,Paid
+1095754,39,Yes,13,Unemployed,UK,20,51000,Own,0,37259,Paid
+1055519,64,Yes,5,Unemployed,UK,1840,45000,Rent,1,39364,Paid
+596827,79,Yes,56,Unemployed,UK,260,24000,Own,2,10370,Defaulted
+793310,40,No,9,Self Employed,UK,3960,34500,Own,0,22873,Defaulted
+642868,53,Yes,23,Employed,UK,1560,43500,Mortgage,0,43363,Paid
+739061,20,Yes,3,Employed,UK,960,12500,Mortgage,1,12265,Paid
+1084870,42,Yes,13,Self Employed,UK,560,43000,Mortgage,0,28713,Paid
+859689,51,No,13,Self Employed,UK,530,18000,Mortgage,0,16322,Paid
+925537,30,Yes,5,Unemployed,UK,3650,30500,Mortgage,1,27337,Paid
+793401,42,No,3,Self Employed,UK,2510,26000,Mortgage,1,15531,Defaulted
+1079759,74,Yes,36,Unemployed,UK,9220,26000,Own,1,10398,Defaulted
+666472,35,Yes,4,Unemployed,UK,30,22000,Own,0,1557,Paid
+864947,41,No,12,Employed,UK,3320,23500,Own,0,18171,Paid
+1002487,48,No,22,Unemployed,UK,2510,51000,Rent,1,19393,Paid
+993683,58,Yes,16,Unemployed,UK,960,34500,Own,0,26300,Paid
+579816,39,Yes,13,Employed,UK,2260,26500,Own,3,8118,Defaulted
+757533,40,No,6,Employed,UK,0,50000,Rent,0,4213,Paid
+712629,83,No,46,Employed,UK,3130,32000,Own,0,4090,Paid
+831178,81,Yes,2,Self Employed,UK,7960,52000,Mortgage,0,36688,Paid
+729861,39,Yes,6,Self Employed,UK,1980,41000,Mortgage,3,38652,Paid
+612019,35,Yes,6,Unemployed,UK,7320,39500,Own,3,8221,Defaulted
+908606,37,Yes,4,Employed,UK,7500,50500,Own,0,45627,Defaulted
+998414,30,Yes,8,Self Employed,UK,3180,31500,Own,3,45,Defaulted
+967482,64,No,410,Self Employed,UK,9350,33500,Rent,1,4851,Defaulted
+656407,56,No,8,Unemployed,UK,80,24000,Own,0,19485,Paid
+917811,72,Yes,26,Self Employed,UK,1610,37000,Rent,0,18966,Paid
+742870,40,Yes,3,Employed,UK,30,41000,Own,0,29589,Paid
+772090,38,No,20,Employed,UK,510,48000,Own,0,28944,Paid
+1091434,70,No,10,Self Employed,UK,5350,21000,Own,1,20934,Paid
+890467,80,Yes,26,Self Employed,UK,5850,28500,Mortgage,1,24086,Defaulted
+746000,62,Yes,15,Employed,UK,5550,43500,Mortgage,0,10708,Paid
+649052,82,Yes,51,Employed,UK,6680,46500,Own,1,805,Defaulted
+1104321,23,Yes,5,Self Employed,UK,1270,37000,Mortgage,0,4676,Defaulted
+734381,31,Yes,12,Self Employed,UK,2260,46000,Own,0,7962,Paid
+610435,30,Yes,1,Employed,UK,370,42000,Mortgage,0,36368,Defaulted
+838802,56,No,24,Unemployed,UK,4830,50000,Mortgage,0,49435,Defaulted
+842299,31,Yes,12,Unemployed,UK,3870,44500,Mortgage,0,14216,Paid
+937466,53,No,29,Employed,UK,2900,27500,Rent,2,20017,Paid
+573058,54,No,5,Employed,UK,3380,35500,Own,0,10101,Paid
+1013332,32,No,9,Unemployed,UK,2250,23000,Rent,0,20427,Defaulted
+637361,64,Yes,8,Self Employed,UK,5750,52500,Own,0,6839,Paid
+994071,87,No,16,Employed,UK,8920,28000,Mortgage,0,7299,Paid
+700789,70,No,43,Employed,UK,770,48000,Mortgage,1,32698,Paid
+1110985,23,Yes,3,Self Employed,UK,1650,21000,Own,0,7316,Paid
+1046078,17,Yes,1,Self Employed,UK,4570,29000,Mortgage,0,9488,Defaulted
+751732,20,No,3,Self Employed,UK,2900,26000,Own,2,22320,Paid
+1031703,71,Yes,22,Self Employed,UK,2920,36000,Mortgage,3,31348,Defaulted
+597755,37,Yes,14,Employed,UK,1140,54500,Mortgage,3,24244,Defaulted
+650711,53,No,17,Unemployed,UK,5460,45500,Own,0,29290,Defaulted
+1060937,66,No,35,Self Employed,UK,7170,25500,Mortgage,0,19229,Paid
+832108,52,Yes,3,Self Employed,UK,4420,38000,Mortgage,0,29803,Defaulted
+950140,23,No,1,Unemployed,UK,4420,41500,Own,0,2458,Defaulted
+885529,64,No,32,Employed,UK,1490,12500,Rent,2,3770,Paid
+1070861,51,Yes,20,Unemployed,UK,590,54500,Mortgage,3,8826,Defaulted
+762900,65,No,35,Unemployed,UK,310,42000,Own,0,34024,Defaulted
+906996,52,No,6,Self Employed,UK,9870,21000,Own,1,7001,Defaulted
+664421,79,No,11,Unemployed,UK,4460,41500,Rent,0,17924,Defaulted
+814741,72,No,36,Unemployed,UK,3890,51000,Own,0,36153,Paid
+749688,50,No,1,Unemployed,UK,0,44500,Rent,3,20419,Defaulted
+1086831,86,Yes,4,Self Employed,UK,1040,47000,Mortgage,1,9171,Defaulted
+640063,55,Yes,27,Self Employed,UK,7060,17000,Rent,2,12388,Defaulted
+708669,56,Yes,38,Employed,UK,220,34000,Mortgage,3,20442,Defaulted
+1062828,38,No,16,Unemployed,UK,3160,47000,Own,2,29629,Defaulted
+964230,18,Yes,1,Self Employed,UK,9850,49000,Own,0,39061,Defaulted
+1077064,86,Yes,39,Employed,UK,7140,42500,Own,1,16810,Paid
+656956,47,No,11,Unemployed,UK,5360,24500,Own,0,6340,Paid
+661107,34,Yes,13,Self Employed,UK,8190,19000,Mortgage,3,7031,Defaulted
+605008,89,Yes,57,Self Employed,UK,1470,37000,Own,0,25124,Paid
+986868,79,Yes,19,Employed,UK,5890,54000,Own,1,11541,Paid
+682603,57,Yes,33,Self Employed,UK,20,24500,Own,1,5298,Paid
+992138,65,No,3,Self Employed,UK,4990,52000,Own,3,24431,Defaulted
+730028,60,No,20,Unemployed,UK,7750,21500,Own,0,10791,Paid
+1015092,75,No,36,Self Employed,UK,120,24000,Own,2,13995,Defaulted
+988973,30,Yes,6,Unemployed,UK,1180,51500,Mortgage,0,9659,Defaulted
+928841,72,No,14,Employed,UK,1430,42500,Own,0,34198,Defaulted
+765024,21,No,1,Employed,UK,8650,11000,Own,0,9960,Defaulted
+695934,64,No,23,Unemployed,UK,250,41500,Mortgage,1,8374,Defaulted
+599269,75,Yes,3,Employed,UK,0,36000,Rent,3,31383,Defaulted
+741914,51,No,1,Employed,UK,660,24500,Own,1,7250,Paid
+674486,62,No,36,Unemployed,UK,7080,34000,Own,1,20473,Paid
+826478,85,Yes,63,Self Employed,UK,1650,46000,Rent,0,1238,Paid
+1073785,77,Yes,39,Self Employed,UK,250,45000,Mortgage,0,17268,Paid
+896318,56,No,36,Unemployed,UK,310,33500,Mortgage,1,19778,Paid
+661245,79,Yes,41,Unemployed,UK,7670,53000,Own,0,33742,Paid
+882841,26,No,7,Self Employed,UK,0,51500,Own,3,36713,Defaulted
+1029562,87,No,25,Unemployed,UK,3320,26500,Own,1,7829,Paid
+833595,66,No,2,Self Employed,UK,2660,47000,Mortgage,0,8679,Defaulted
+734912,26,No,2,Self Employed,UK,220,45000,Rent,0,43697,Paid
+952445,72,No,13,Unemployed,UK,5630,44000,Own,0,2803,Defaulted
+1048447,72,Yes,30,Unemployed,UK,5400,30000,Rent,0,25809,Defaulted
+691809,43,No,15,Employed,UK,5510,36500,Mortgage,0,5745,Paid
+945577,73,Yes,46,Employed,UK,2600,52000,Own,2,38697,Paid
+839467,82,No,55,Self Employed,UK,8790,49500,Rent,1,24016,Defaulted
+759327,58,Yes,21,Unemployed,UK,30,48500,Mortgage,0,1673,Paid
+967020,69,Yes,51,Employed,UK,5840,27000,Rent,0,23114,Paid
+905599,41,No,19,Retired,UK,4950,47500,Rent,1,37825,Paid
+1055940,35,No,15,Unemployed,UK,1220,48000,Rent,1,10563,Paid
+1002893,38,Yes,19,Unemployed,UK,4310,10000,Own,1,3577,Defaulted
+707992,68,Yes,27,Unemployed,UK,7670,36000,Own,3,21073,Defaulted
+624322,88,No,37,Unemployed,UK,360,33500,Own,1,21526,Paid
+716465,32,No,15,Unemployed,UK,300,40500,Rent,0,15689,Paid
+645996,89,Yes,57,Self Employed,UK,8490,46000,Rent,0,29615,Defaulted
+951503,59,No,31,Employed,UK,4470,26500,Mortgage,1,5966,Defaulted
+683901,69,Yes,44,Self Employed,UK,8300,38500,Own,1,978,Paid
+706995,49,Yes,31,Self Employed,UK,360,30000,Mortgage,0,16826,Paid
+594861,84,Yes,5,Employed,UK,4960,52000,Mortgage,1,42590,Paid
+1069156,75,No,49,Unemployed,UK,10,37500,Mortgage,2,20467,Defaulted
+843225,88,No,20,Unemployed,UK,3520,21000,Mortgage,2,17222,Paid
+1017327,23,No,6,Self Employed,UK,8050,50000,Mortgage,1,24109,Defaulted
+692992,28,No,11,Unemployed,UK,8200,33000,Own,0,10474,Paid
+645252,25,No,1,Self Employed,UK,7910,40500,Own,2,12963,Defaulted
+734514,58,N,18,Employed,UK,1680,21500,Own,0,11063,Paid
+728779,25,No,3,Unemployed,UK,5520,52000,Own,2,44179,Defaulted
+1049339,19,No,1,Self Employed,UK,100,51500,Mortgage,0,617,Paid
+878313,22,No,1,Self Employed,UK,90,33000,Own,3,2199,Defaulted
+1057033,27,No,10,Unemployed,UK,710,39500,Own,0,24398,Paid
+932020,85,No,51,Self Employed,UK,270,39500,Rent,1,31867,Paid
+1092014,42,No,21,Employed,UK,6720,39500,Own,2,3307,Defaulted
+621261,75,No,16,Self Employed,UK,4460,54000,Own,0,10383,Defaulted
+1048208,20,No,2,Employed,UK,290,53500,Own,0,16543,Paid
+1079436,39,Yes,12,Employed,UK,990,25000,Mortgage,0,10123,Paid
+1006221,62,No,33,Unemployed,UK,210,37500,Mortgage,0,35977,Paid
+653329,31,No,5,Self Employed,UK,3240,29500,Own,2,26399,Defaulted
+859758,77,No,18,Employed,UK,820,41000,Own,1,37060,Paid
+565455,83,No,60,Self Employed,UK,6350,54000,Own,1,38267,Paid
+912944,79,No,15,Employed,UK,6320,25000,Mortgage,1,488,Defaulted
+816285,27,No,8,Unemployed,UK,6530,24500,Own,1,342,Paid
+867646,80,No,30,Self Employed,UK,720,51000,Own,0,33748,Defaulted
+569754,76,Yes,44,Self Employed,UK,620,40500,Mortgage,0,13325,Paid
+791378,33,No,3,Self Employed,UK,6880,43000,Own,1,37463,Paid
+587282,56,No,19,Employed,UK,540,32500,Own,0,31212,Paid
+846166,74,Yes,12,Employed,UK,1840,40000,Own,1,9200,Paid
+637124,86,Yes,18,Self Employed,UK,2560,28500,Mortgage,1,26412,Defaulted
+1053003,24,Yes,2,Self Employed,UK,3620,44000,Mortgage,1,20886,Paid
+831145,25,No,4,Self Employed,UK,3960,53000,Mortgage,0,50858,Paid
+750900,51,No,17,Unemployed,UK,4020,43500,Rent,1,32541,Paid
+1015400,65,Yes,28,Employed,UK,7670,45500,Mortgage,0,22158,Paid
+727298,39,Yes,21,Employed,UK,5910,43000,Own,2,18876,Paid
+887733,85,Yes,18,Unemployed,UK,1690,16000,Own,1,10054,Paid
+703478,46,No,9,Employed,UK,8740,44500,Rent,2,4294,Defaulted
+584399,80,Yes,7,Self Employed,UK,1550,45500,Own,0,40126,Paid
+615258,87,Yes,36,Employed,UK,160,18500,Own,3,15058,Defaulted
+922970,41,No,15,Unemployed,UK,4490,47000,Own,1,27839,Paid
+924058,35,No,1,Self Employed,UK,0,45000,Own,3,5396,Defaulted
+1008485,89,Yes,31,Self Employed,UK,390,31500,Own,2,20916,Defaulted
+620141,28,No,4,Self Employed,UK,870,36500,Mortgage,0,32900,Paid
+692743,69,Yes,3,Self Employed,UK,1600,39000,Mortgage,2,11056,Defaulted
+662401,35,No,8,Unemployed,UK,0,46000,Own,1,3549,Paid
+683204,80,No,33,Self Employed,UK,9110,50500,Mortgage,1,21456,Defaulted
+1092742,71,No,22,Employed,UK,5820,30000,Mortgage,0,4475,Paid
+760372,69,Yes,22,Unemployed,UK,310,48000,Own,0,9393,Paid
+735920,89,Yes,17,Employed,UK,9590,54500,Own,1,27734,Defaulted
+1059058,70,Yes,28,Unemployed,UK,2460,13500,Own,0,1155,Defaulted
+734941,47,Yes,7,Unemployed,UK,4280,46000,Own,3,26156,Defaulted
+974242,47,Yes,26,Unemployed,UK,2390,39500,Mortgage,1,2036,Paid
+1086813,46,Yes,17,Unemployed,UK,1860,27500,Own,1,7137,Defaulted
+1050632,23,Yes,3,Self Employed,UK,6110,41000,Mortgage,2,16199,Defaulted
+948003,81,No,47,Self Employed,UK,3990,49500,Mortgage,1,23302,Paid
+1008806,26,Yes,1,Self Employed,UK,1180,38500,Mortgage,0,6274,Defaulted
+929531,29,No,3,Unemployed,UK,240,27500,Own,0,11517,Paid
+645789,70,Yes,27,Self Employed,UK,5480,25000,Own,0,11166,Paid
+794957,67,No,29,Self Employed,UK,290,23500,Own,0,1256,Paid
+678963,45,No,22,Unemployed,UK,8710,54500,Own,0,32532,Defaulted
+645356,85,Yes,46,Self Employed,UK,1610,42000,Own,1,1705,Paid
+850364,59,No,25,Self Employed,UK,130,36000,Own,0,3841,Paid
+893367,73,No,21,Self Employed,UK,90,44500,Mortgage,1,12761,Paid
+780640,68,No,40,Self Employed,UK,4700,36500,Rent,3,32531,Paid
+754901,82,No,3,Unemployed,UK,8390,33000,Own,1,6639,Defaulted
+765671,48,Yes,13,Self Employed,UK,1480,33000,Rent,1,20608,Paid
+992335,27,No,1,Self Employed,UK,3060,21500,Mortgage,1,8102,Defaulted
+825686,78,Yes,3,Self Employed,UK,60,29500,Mortgage,0,12743,Defaulted
+628244,86,Yes,30,Self Employed,UK,8950,54500,Own,0,51367,Defaulted
+1011063,25,No,1,Self Employed,UK,1760,43000,Own,0,6500,Defaulted
+939656,83,No,31,Self Employed,UK,1460,26500,Mortgage,1,5528,Defaulted
+639755,88,Yes,29,Self Employed,UK,6660,46500,Own,0,27796,Paid
+708417,74,Yes,48,Self Employed,UK,770,23000,Own,0,14541,Paid
+917613,27,Yes,6,Unemployed,UK,1980,34000,Rent,1,31707,Paid
+910058,22,No,5,Self Employed,UK,6260,12500,Rent,0,4799,Paid
+564441,72,No,29,Unemployed,UK,2040,42000,Own,1,37797,Paid
+963636,54,Yes,9,Unemployed,UK,7080,34000,Mortgage,1,1605,Paid
+673584,65,No,47,Unemployed,UK,3760,37500,Own,0,11489,Paid
+629280,46,No,11,Unemployed,UK,3090,51500,Own,2,1374,Defaulted
+675135,56,No,16,Self Employed,UK,1420,39500,Own,0,14201,Defaulted
+666068,24,Yes,5,Self Employed,UK,240,30000,Own,3,25717,Defaulted
+948608,81,Yes,16,Unemployed,UK,9890,35000,Own,1,23369,Defaulted
+641550,60,Yes,12,Unemployed,UK,3870,49500,Own,1,3710,Paid
+728108,88,No,5,Unemployed,UK,1440,39500,Own,0,7273,Paid
+931707,89,Yes,18,Unemployed,UK,0,37500,Mortgage,0,29519,Defaulted
+574390,56,Yes,31,Self Employed,UK,30,18000,Mortgage,1,6509,Paid
+662799,47,Yes,15,Self Employed,UK,8350,45000,Own,1,43600,Defaulted
+973657,68,Yes,17,Self Employed,UK,9520,30500,Mortgage,3,3867,Defaulted
+1083702,73,Yes,32,Unemployed,UK,4730,27500,Own,0,5041,Paid
+947520,46,Yes,18,Unemployed,UK,4290,33500,Rent,2,24162,Defaulted
+746666,23,Yes,3,Self Employed,UK,2340,38000,Own,3,16354,Defaulted
+714724,34,Yes,2,Unemployed,UK,840,11500,Own,0,4728,Paid
+922103,45,Yes,24,Unemployed,UK,2960,54500,Rent,0,37607,Defaulted
+753159,57,Yes,39,Unemployed,UK,9210,40500,Own,0,20499,Defaulted
+744042,40,No,12,Self Employed,UK,3820,48500,Own,1,18795,Defaulted
+870018,73,Yes,53,Self Employed,UK,7850,37500,Mortgage,2,3170,Defaulted
+834260,17,No,1,Unemployed,UK,170,26000,Own,0,1363,Defaulted
+560150,65,Yes,37,Self Employed,UK,5630,50000,Own,0,46375,Paid
+1050624,81,No,62,Employed,UK,180,27500,Own,3,5538,Defaulted
+823285,52,Yes,1,Unemployed,UK,8810,17000,Own,3,9777,Defaulted
+572968,48,Yes,12,Unemployed,UK,140,48000,Rent,1,10496,Paid
+672440,34,Yes,3,Self Employed,UK,4750,52000,Mortgage,2,46916,Paid
+769988,43,No,9,Self Employed,UK,590,24000,Mortgage,3,7493,Defaulted
+618120,57,No,26,Employed,UK,7070,40000,Rent,1,31528,Defaulted
+933906,77,No,44,Unemployed,UK,760,41500,Rent,2,37770,Defaulted
+686198,47,No,26,Self Employed,UK,4710,35000,Own,3,11159,Defaulted
+755811,61,No,17,Employed,UK,9410,28500,Own,1,22550,Paid
+809331,69,No,29,Self Employed,UK,1960,34500,Own,0,9509,Paid
+617374,54,No,12,Unemployed,UK,0,18000,Own,2,6678,Defaulted
+846514,77,No,55,Self Employed,UK,9170,54500,Own,1,16560,Defaulted
+561343,60,Yes,16,Unemployed,UK,2630,37000,Own,0,30007,Paid
+831688,57,Yes,37,Self Employed,UK,7490,14000,Mortgage,1,7084,Paid
+802683,60,No,21,Self Employed,UK,8630,40000,Own,3,22494,Defaulted
+573339,34,Yes,16,Self Employed,UK,6920,40000,Own,0,9609,Paid
+881967,59,No,12,Unemployed,UK,6310,52000,Own,0,10846,Paid
+778950,38,No,15,Self Employed,UK,0,29000,Own,0,6820,Paid
+856964,55,Yes,18,Employed,UK,7200,44000,Own,1,42057,Paid
+1092465,30,No,3,Self Employed,UK,5780,43500,Rent,3,20719,Defaulted
+772695,45,Yes,20,Unemployed,UK,2620,49500,Mortgage,2,13360,Paid
+878044,39,No,9,Unemployed,UK,3180,45000,Own,0,11591,Paid
+809818,78,No,2,Self Employed,UK,4560,49500,Mortgage,1,22055,Paid
+581109,40,Yes,6,Employed,UK,3650,35500,Own,2,27001,Paid
+810211,63,Yes,1,Unemployed,UK,7620,53000,Mortgage,0,52245,Defaulted
+1006114,65,Yes,11,Unemployed,UK,1780,32000,Mortgage,0,31235,Defaulted
+1090560,38,No,21,Self Employed,UK,90,47500,Rent,2,32337,Defaulted
+865754,22,No,4,Self Employed,UK,4650,48500,Mortgage,0,3003,Paid
+823347,37,No,14,Self Employed,UK,6470,43500,Mortgage,1,23900,Paid
+710494,64,No,1,Self Employed,UK,60,46500,Mortgage,0,35463,Defaulted
+857886,34,Yes,10,Self Employed,UK,250,48500,Mortgage,3,16441,Paid
+975730,24,Yes,6,Employed,UK,8040,54000,Mortgage,0,21969,Defaulted
+719662,59,Yes,26,Unemployed,UK,9540,45500,Mortgage,1,33265,Defaulted
+597381,31,No,11,Employed,UK,8580,41000,Own,0,36196,Defaulted
+680373,63,No,23,Self Employed,UK,530,46000,Own,1,31368,Paid
+850063,83,No,3,Self Employed,UK,1940,8500,Rent,3,146,Defaulted
+954958,26,Yes,6,Unemployed,UK,500,50500,Own,0,14673,Paid
+655159,36,No,6,Employed,UK,940,48000,Own,0,7366,Paid
+575877,82,Yes,4,Self Employed,UK,1350,52000,Mortgage,3,44349,Paid
+1068188,76,Yes,40,Self Employed,UK,8760,21000,Own,3,2968,Defaulted
+817436,18,Yes,1,Unemployed,UK,7320,41500,Own,2,26073,Defaulted
+868677,85,Yes,46,Unemployed,UK,200,44000,Rent,1,40081,Paid
+566812,21,No,3,Self Employed,UK,2140,36000,Own,2,12937,Paid
+807350,20,Yes,1,Self Employed,UK,0,36500,Mortgage,0,28916,Defaulted
+678630,66,Yes,16,Unemployed,UK,1240,36500,Mortgage,0,26068,Paid
+678605,77,No,57,Unemployed,UK,8420,21000,Own,0,18454,Defaulted
+979375,86,Yes,53,Self Employed,UK,4540,13500,Own,3,10735,Defaulted
+951962,24,Yes,3,Unemployed,UK,1620,47000,Own,1,11154,Defaulted
+601794,20,Yes,1,Self Employed,UK,60,21500,Own,2,10493,Defaulted
+811831,66,No,39,Self Employed,UK,390,22500,Mortgage,1,7581,Defaulted
+752727,31,No,14,Unemployed,UK,2210,33500,Own,1,21818,Paid
+1004890,62,Yes,4,Unemployed,UK,890,52500,Mortgage,0,30113,Paid
+912741,50,Yes,18,Self Employed,UK,3490,40000,Own,0,9671,Paid
+1098422,42,No,1,Self Employed,UK,0,26000,Rent,1,5503,Paid
+662803,42,No,10,Unemployed,UK,3510,40500,Mortgage,1,10787,Defaulted
+644468,45,Yes,19,Unemployed,Spain,4000,31000,Own,2,27739,Defaulted
+683146,65,Yes,8,Unemployed,UK,30,51500,Own,1,12382,Paid
+764623,40,No,12,Self Employed,UK,1810,36000,Mortgage,0,27581,Paid
+588403,70,No,31,Unemployed,UK,5430,39000,Own,1,37463,Defaulted
+610625,53,No,31,Unemployed,UK,3670,37500,Mortgage,0,1491,Defaulted
+565367,42,No,17,Unemployed,UK,3440,51500,Mortgage,3,32493,Defaulted
+1072744,85,No,8,Self Employed,UK,430,47000,Own,3,24410,Defaulted
+825203,47,No,2,Employed,UK,410,53000,Rent,2,14832,Paid
+786766,41,Yes,10,Unemployed,UK,1030,47000,Own,3,18887,Defaulted
+1020361,55,No,10,Unemployed,UK,5140,41000,Own,3,12976,Paid
+992337,77,Yes,56,Unemployed,UK,5250,48500,Rent,0,26550,Paid
+1009277,32,Yes,14,Self Employed,UK,4800,25000,Rent,0,24952,Defaulted
+783663,88,Yes,60,Unemployed,UK,2530,42500,Mortgage,3,5477,Defaulted
+672808,46,No,22,Unemployed,UK,3270,50000,Mortgage,2,12091,Defaulted
+1083503,86,Yes,46,Unemployed,UK,6070,10000,Mortgage,3,1386,Defaulted
+647802,21,No,3,Self Employed,UK,1650,23000,Mortgage,1,8512,Paid
+1024546,67,No,19,Unemployed,UK,880,49000,Rent,1,5506,Defaulted
+1085141,89,No,37,Employed,UK,8100,32500,Mortgage,1,28292,Defaulted
+724394,37,Yes,4,Unemployed,UK,2970,51500,Rent,3,19459,Defaulted
+653068,55,Yes,34,Unemployed,UK,4000,38000,Own,0,25012,Defaulted
+865535,53,No,33,Unemployed,UK,620,22000,Rent,1,1146,Paid
+964706,30,Yes,3,Unemployed,UK,150,21000,Rent,1,4817,Paid
+919557,63,No,40,Employed,UK,1020,35000,Own,10,19712,Paid
+610801,41,No,18,Unemployed,UK,0,52000,Mortgage,0,43151,Paid
+680235,73,Yes,11,Unemployed,UK,3240,52000,Mortgage,2,16486,Paid
+715306,27,No,8,Unemployed,UK,50,37500,Own,0,34711,Paid
+736416,75,Yes,13,Self Employed,UK,40,29000,Mortgage,0,23376,Paid
+877759,18,No,1,Unemployed,UK,810,50000,Mortgage,0,40186,Defaulted
+1075370,52,No,18,Self Employed,UK,180,21500,Own,1,5112,Paid
+855174,60,No,40,Unemployed,UK,2990,43000,Mortgage,0,9562,Defaulted
+730302,39,No,11,Self Employed,UK,5020,53000,Own,2,23190,Paid
+1018505,70,Yes,52,Employed,UK,9800,44500,Rent,3,9306,Defaulted
+662109,71,Yes,10,Employed,UK,100,52000,Own,0,45488,Paid
+806092,40,Yes,6,Self Employed,UK,8460,51500,Own,0,25520,Defaulted
+890980,60,Yes,29,Unemployed,UK,1520,25500,Mortgage,1,7099,Defaulted
+649682,56,Yes,37,Self Employed,UK,7960,46000,Mortgage,0,27188,Paid
+829293,83,No,60,Employed,UK,110,54500,Own,1,24589,Paid
+1030647,43,Yes,13,Self Employed,UK,1330,21000,Mortgage,0,13877,Defaulted
+732737,60,No,26,Self Employed,UK,1050,33500,Mortgage,3,5187,Defaulted
+578019,17,Yes,1,Self Employed,UK,7140,29500,Own,0,9035,Paid
+1043653,70,Yes,27,Unemployed,UK,5290,51500,Own,3,20966,Paid
+842612,48,No,12,Self Employed,UK,80,51000,Own,0,26021,Defaulted
+970998,54,No,14,Unemployed,UK,2850,21000,Mortgage,1,15980,Defaulted
+1034100,88,No,69,Unemployed,UK,2960,34000,Rent,3,28065,Defaulted
+788385,28,Yes,7,Self Employed,UK,4520,28500,Rent,0,24421,Paid
+826496,56,Yes,10,Self Employed,UK,6110,36500,Rent,0,23061,Paid
+1074184,40,No,17,Unemployed,UK,3480,20000,Rent,2,7226,Defaulted
+670241,61,Yes,35,Unemployed,UK,2660,52500,Own,0,8835,Paid
+603060,45,Yes,9,Self Employed,UK,4930,47500,Mortgage,1,11939,Paid
+611293,61,No,25,Self Employed,UK,7900,32000,Own,0,5837,Defaulted
+754945,58,No,38,Self Employed,UK,4060,36000,Mortgage,0,1693,Paid
+893898,41,No,9,Self Employed,UK,480,50500,Own,2,10841,Defaulted
+1000458,65,No,30,Unemployed,UK,2250,43000,Mortgage,2,11644,Paid
+1004212,24,Yes,7,Unemployed,UK,450,30500,Own,3,29541,Defaulted
+1077928,75,No,15,Self Employed,UK,2680,49000,Rent,0,9345,Paid
+1035472,23,No,2,Unemployed,UK,2020,41000,Own,1,15047,Paid
+646125,18,No,1,Unemployed,UK,2500,51500,Mortgage,1,23420,Paid
+1002518,25,No,5,Self Employed,UK,3340,53000,Mortgage,2,148,Defaulted
+654631,56,Yes,5,Unemployed,UK,560,35500,Own,0,7668,Defaulted
+1027873,26,No,7,Employed,UK,9640,50500,Own,0,33821,Defaulted
+599167,88,No,44,Unemployed,UK,1750,38500,Own,2,24743,Defaulted
+1050822,85,Yes,65,Unemployed,UK,9430,43000,Rent,0,872,Paid
+858182,43,Yes,17,Employed,UK,9790,30500,Rent,2,6560,Defaulted
+738669,85,Yes,51,Self Employed,UK,6390,46000,Own,0,19630,Defaulted
+647049,25,Yes,8,Employed,UK,60,37000,Mortgage,3,35074,Defaulted
+911806,45,No,20,Employed,UK,30,26000,Own,1,20702,Defaulted
+939265,47,No,5,Unemployed,UK,1130,45000,Mortgage,0,27111,Paid
+1066824,61,Yes,24,Employed,UK,420,30500,Mortgage,2,17895,Paid
+901372,69,No,1,Self Employed,UK,1170,12500,Rent,0,11836,Defaulted
+1016023,24,Yes,5,Unemployed,UK,200,48000,Rent,0,41110,Defaulted
+1110225,41,No,6,Unemployed,UK,1330,47500,Mortgage,1,30076,Paid
+869004,89,No,49,Unemployed,UK,8870,40000,Mortgage,1,37329,Defaulted
+798040,28,Yes,2,Retired,UK,9840,32500,Own,0,6485,Defaulted
+1037019,80,No,16,Self Employed,UK,6610,47000,Rent,2,23614,Paid
+814570,79,Yes,54,Unemployed,UK,0,34500,Own,0,24657,Paid
+632203,45,No,27,Self Employed,UK,3870,22500,Mortgage,2,14391,Paid
+910150,83,Yes,36,Self Employed,UK,820,34500,Rent,2,25737,Defaulted
+922102,36,Yes,10,Employed,UK,9180,42000,Own,0,35486,Defaulted
+675988,83,No,56,Unemployed,UK,1310,42500,Own,3,3222,Defaulted
+935637,32,Yes,2,Self Employed,UK,9690,50000,Own,1,35622,Defaulted
+940555,73,No,56,Self Employed,UK,4850,29500,Own,0,3977,Defaulted
+1051894,64,No,36,Self Employed,UK,0,24000,Own,1,3083,Defaulted
+948804,59,No,39,Self Employed,UK,7030,17500,Mortgage,1,14776,Defaulted
+1080820,23,No,2,Self Employed,UK,140,18000,Mortgage,1,9923,Paid
+884626,55,No,36,Employed,UK,8290,37000,Mortgage,1,35697,Defaulted
+867965,24,No,7,Self Employed,UK,4640,51500,Own,3,38083,Defaulted
+1094320,38,Yes,12,Self Employed,UK,4280,41500,Rent,0,34415,Paid
+1063733,73,Yes,24,Employed,UK,2400,17000,Own,2,1183,Defaulted
+616130,60,Yes,13,Self Employed,UK,2050,49000,Own,3,13982,Defaulted
+731899,63,Yes,3,Self Employed,UK,4980,40500,Mortgage,2,22886,Defaulted
+1103398,45,Yes,9,Unemployed,UK,8830,42000,Mortgage,2,11881,Defaulted
+806171,86,No,34,Self Employed,UK,5690,13000,Own,3,6095,Paid
+748920,55,No,27,Self Employed,UK,9250,51500,Own,0,8450,Defaulted
+875792,18,No,1,Self Employed,UK,620,40500,Mortgage,0,4692,Defaulted
+600205,64,No,37,Self Employed,UK,4620,32500,Own,2,11705,Defaulted
+701162,47,No,20,Unemployed,UK,930,27000,Rent,0,23263,Paid
+646872,82,Yes,29,Self Employed,UK,650,53500,Mortgage,0,30856,Defaulted
+851550,63,No,33,Employed,UK,2690,41000,Own,0,29506,Paid
+985148,50,No,24,Unemployed,UK,2590,37500,Mortgage,1,16096,Paid
+1015838,68,Yes,40,Unemployed,UK,60,45000,Own,0,16758,Paid
+997118,41,Yes,24,Employed,UK,0,38500,Own,0,16756,Paid
+1044876,31,No,9,Self Employed,UK,340,18000,Mortgage,0,14478,Defaulted
+897876,66,No,28,Self Employed,UK,1770,50500,Mortgage,2,38826,Defaulted
+586960,17,Yes,1,Unemployed,UK,420,45500,Mortgage,1,11857,Paid
+925482,20,Yes,3,Self Employed,UK,50,35500,Mortgage,0,13042,Defaulted
+1017199,30,No,10,Self Employed,UK,0,51000,Own,2,13248,Defaulted
+930905,71,No,25,Self Employed,UK,250,52500,Rent,0,22257,Paid
+878858,55,Yes,32,Self Employed,UK,130,36500,Own,3,2958,Defaulted
+749297,26,No,1,Unemployed,UK,190,21500,Rent,0,11165,Paid
+1027292,83,No,12,Self Employed,UK,1110,37000,Own,0,1193,Paid
+762812,54,Yes,17,Self Employed,UK,7120,45500,Mortgage,1,8003,Defaulted
+571230,61,Yes,16,Unemployed,UK,250,41000,Own,0,5962,Paid
+712983,55,Yes,35,Self Employed,UK,1210,46500,Own,1,37327,Defaulted
+586502,72,No,19,Self Employed,UK,4020,37000,Mortgage,1,23466,Defaulted
+1076651,59,Yes,10,Unemployed,UK,1430,47000,Own,1,22696,Paid
+1101135,65,Yes,37,Self Employed,UK,2520,30500,Rent,0,28947,Paid
+930588,49,No,18,Employed,UK,750,43000,Mortgage,0,3505,Paid
+986538,60,No,5,Unemployed,UK,140,18500,Mortgage,0,4186,Paid
+985564,76,No,30,Unemployed,UK,7530,43500,Mortgage,1,20475,Paid
+557984,75,No,25,Employed,UK,0,38000,Own,0,21329,Paid
+698267,20,No,1,Employed,UK,2760,41000,Mortgage,1,23398,Paid
+986460,65,No,17,Self Employed,UK,980,53000,Own,3,2969,Defaulted
+910869,87,No,70,Employed,UK,4340,36000,Mortgage,0,5605,Paid
+982780,68,Yes,7,Self Employed,UK,2510,17000,Mortgage,2,2519,Defaulted
+704494,61,Yes,35,Unemployed,UK,5110,28000,Own,2,14052,Defaulted
+966661,82,Yes,55,Self Employed,UK,1120,44500,Own,1,34485,Paid
+595695,32,Yes,15,Unemployed,UK,4910,46500,Own,2,34064,Defaulted
+566875,89,Yes,7,Unemployed,UK,210,44000,Rent,1,31238,Paid
+802042,58,Yes,5,Unemployed,UK,7650,54000,Rent,3,31259,Defaulted
+870399,81,No,15,Self Employed,UK,330,48000,Mortgage,2,11867,Defaulted
+622141,85,No,9,Unemployed,UK,1410,33500,Mortgage,0,23338,Defaulted
+817024,76,No,20,Self Employed,UK,1950,44500,Mortgage,1,22622,Defaulted
+1044557,65,Yes,4,Self Employed,UK,5800,13500,Own,0,12047,Paid
+1099704,58,Yes,31,Unemployed,UK,7840,28500,Own,0,20894,Defaulted
+904922,67,Yes,16,Self Employed,UK,7300,49000,Own,0,32957,Defaulted
+833628,75,Yes,2,Self Employed,UK,1410,33000,Own,0,15375,Paid
+958109,61,No,9,Unemployed,UK,1950,42500,Rent,0,10111,Paid
+605892,72,No,3,Employed,UK,2050,23500,Own,0,21163,Paid
+604770,33,Yes,10,Self Employed,UK,90,26000,Own,1,11187,Paid
+605558,54,No,11,Self Employed,UK,700,52500,Own,0,35930,Paid
+855694,34,No,6,Unemployed,UK,2920,50500,Own,3,28589,Defaulted
+938408,34,Yes,9,Unemployed,UK,1870,50000,Own,0,21596,Paid
+888298,26,Yes,5,Unemployed,UK,290,41000,Own,2,6420,Defaulted
+657008,21,Yes,2,Self Employed,UK,1110,46000,Mortgage,0,4024,Defaulted
+745315,38,No,3,Unemployed,UK,4660,50000,Mortgage,2,14823,Defaulted
+724614,36,Yes,13,Self Employed,UK,2860,50500,Mortgage,1,23365,Paid
+896654,24,Yes,3,Self Employed,UK,1060,39500,Own,0,20584,Paid
+704458,70,No,23,Self Employed,UK,3310,52500,Own,3,33190,Paid
+944870,25,Yes,4,Unemployed,UK,4000,33000,Own,0,2259,Defaulted
+738950,30,No,5,Self Employed,UK,1760,45000,Own,2,9831,Paid
+998176,88,Yes,47,Self Employed,UK,1940,14500,Own,0,13104,Paid
+774656,53,Yes,3,Self Employed,UK,7810,46000,Own,1,39445,Paid
+903235,83,No,13,Unemployed,UK,4520,42500,Own,2,40677,Paid
+1040020,47,No,24,Employed,UK,5580,39000,Mortgage,2,37557,Paid
+941785,58,Yes,18,Self Employed,UK,3180,26500,Rent,0,9777,Paid
+648605,80,No,61,Self Employed,UK,2200,51500,Rent,0,5697,Paid
+887945,20,Yes,2,Unemployed,UK,4340,38500,Own,2,23171,Defaulted
+834540,26,Yes,2,Self Employed,UK,4510,46000,Own,0,7689,Paid
+685679,78,No,33,Self Employed,UK,4290,41000,Own,0,28271,Paid
+1022426,18,Yes,1,Unemployed,UK,1870,54000,Rent,1,23561,Paid
+659142,62,No,35,Self Employed,UK,180,39000,Mortgage,0,10832,Defaulted
+848959,34,Yes,11,Self Employed,UK,3680,38000,Mortgage,2,4137,Defaulted
+711882,65,Yes,16,Self Employed,UK,150,42500,Mortgage,0,33554,Defaulted
+925107,41,Yes,21,Employed,UK,0,18500,Own,1,3822,Paid
+895970,51,Yes,11,Self Employed,UK,300,42000,Mortgage,0,1201,Paid
+1010051,41,No,2,Self Employed,UK,7400,42000,Mortgage,2,13033,Defaulted
+597962,71,Yes,21,Employed,UK,6080,47000,Mortgage,2,2240,Defaulted
+724234,41,No,12,Self Employed,UK,40,36500,Mortgage,1,12721,Paid
+939595,26,No,4,Employed,UK,30,43500,Mortgage,1,39356,Paid
+1056425,44,No,21,Self Employed,UK,40,35000,Own,1,18233,Defaulted
+766237,83,Yes,35,Self Employed,UK,8320,50000,Rent,2,21982,Paid
+680858,67,Yes,16,Self Employed,UK,340,23500,Rent,3,7033,Paid
+883508,51,Yes,21,Self Employed,UK,330,16000,Own,0,3532,Paid
+811344,31,Yes,9,Self Employed,UK,8730,41500,Rent,0,30024,Defaulted
+1004608,32,Yes,4,Unemployed,UK,2380,44000,Rent,1,8348,Paid
+1072516,70,No,52,Unemployed,UK,980,14500,Own,3,2202,Defaulted
+1022732,56,Yes,15,Unemployed,UK,9400,50000,Mortgage,1,42851,Paid
+637323,48,Yes,15,Unemployed,UK,9950,20000,Own,3,1017,Defaulted
+611448,61,No,13,Unemployed,UK,1080,53500,Rent,0,7106,Paid
+676548,40,Yes,7,Unemployed,UK,8410,36500,Own,0,3153,Defaulted
+983626,63,No,28,Self Employed,UK,10,40000,Mortgage,0,22567,Paid
+621404,62,No,15,Self Employed,UK,9780,53000,Mortgage,1,43236,Defaulted
+930667,26,Yes,4,Self Employed,UK,3090,35500,Own,3,13457,Defaulted
+1066388,39,No,11,Unemployed,UK,7970,44500,Mortgage,0,4361,Paid
+881600,21,Yes,2,Unemployed,UK,2980,46500,Mortgage,0,21519,Defaulted
+687368,81,Yes,64,Unemployed,UK,8020,42000,Mortgage,0,19900,Defaulted
+876363,67,Yes,10,Unemployed,UK,6120,51000,Own,0,39721,Paid
+1079846,24,No,7,Self Employed,UK,8250,16000,Own,2,13574,Paid
+799036,53,Yes,35,Self Employed,UK,2720,51000,Rent,2,43504,Defaulted
+787411,81,Yes,57,Self Employed,UK,950,53000,Mortgage,0,35095,Defaulted
+562306,82,No,1,Unemployed,UK,8720,51500,Mortgage,0,44711,Defaulted
+766341,17,N,1,Unemployed,UK,2100,18000,Rent,0,7214,Paid
+1053065,25,No,5,Self Employed,UK,10,42000,Rent,1,37058,Paid
+935315,46,Yes,11,Self Employed,UK,1030,51500,Rent,0,625,Paid
+581931,38,No,20,Self Employed,UK,0,45500,Own,3,18376,Defaulted
+832413,83,No,52,Self Employed,UK,9100,38500,Mortgage,3,13979,Defaulted
+911335,70,Yes,6,Self Employed,UK,2650,44500,Own,0,12939,Paid
+712730,39,No,2,Self Employed,UK,3730,41500,Own,1,14255,Paid
+718449,87,No,10,Self Employed,UK,8170,39500,Rent,1,14892,Defaulted
+810906,33,Yes,6,Self Employed,UK,5240,47500,Own,0,43214,Defaulted
+794351,18,Yes,1,Self Employed,UK,810,25000,Own,0,6362,Paid
+678372,20,No,1,Self Employed,UK,1490,38500,Own,0,37668,Paid
+874595,32,Yes,1,Self Employed,UK,2500,46500,Mortgage,0,37594,Paid
+630295,60,Yes,24,Employed,UK,4190,32500,Rent,0,19317,Defaulted
+918741,33,Yes,10,Unemployed,UK,9630,51000,Mortgage,0,26108,Paid
+911530,64,No,30,Unemployed,UK,20,48000,Rent,1,8515,Paid
+1081577,57,No,28,Employed,UK,8740,52000,Mortgage,0,50778,Defaulted
+1017493,85,Yes,5,Self Employed,UK,1070,33000,Mortgage,0,23555,Paid
+1035301,39,Yes,5,Unemployed,UK,960,32000,Mortgage,1,13496,Paid
+708389,42,No,6,Self Employed,UK,7610,23500,Own,2,16309,Defaulted
+1057763,70,No,40,Unemployed,UK,6490,40000,Mortgage,3,8446,Defaulted
+555581,45,Yes,5,Self Employed,UK,680,45500,Own,1,24104,Paid
+616811,57,No,10,Unemployed,UK,20,33000,Own,0,26915,Paid
+809810,18,Yes,1,Self Employed,UK,1380,50500,Mortgage,1,41055,Paid
+1008229,20,No,1,Self Employed,UK,2670,28000,Own,1,17709,Paid
+1039592,57,No,18,Self Employed,UK,380,30000,Mortgage,2,14591,Defaulted
+652937,27,No,7,Self Employed,UK,7150,21000,Own,2,11017,Defaulted
+1038732,71,No,14,Employed,UK,3430,7500,Mortgage,0,4763,Paid
+684733,44,No,11,Self Employed,UK,690,45000,Rent,1,27712,Paid
+834953,35,No,7,Self Employed,UK,1920,34000,Own,2,23928,Defaulted
+618552,66,No,17,Unemployed,UK,5020,54000,Rent,1,3586,Paid
+971912,79,No,12,Unemployed,UK,5370,50000,Own,2,32416,Paid
+613282,17,Yes,1,Self Employed,UK,4840,10000,Rent,3,2583,Defaulted
+1028095,59,Yes,1,Employed,UK,960,50500,Mortgage,3,27654,Defaulted
+779225,49,No,16,Self Employed,UK,9270,54500,Mortgage,0,37275,Defaulted
+1102925,37,No,9,Self Employed,UK,350,17000,Own,1,8857,Defaulted
+807008,65,No,29,Self Employed,UK,4060,9500,Own,3,864,Defaulted
+899542,25,Yes,3,Self Employed,UK,6990,28000,Own,0,8626,Paid
+796442,28,Yes,2,Self Employed,UK,2730,25000,Own,0,16606,Paid
+1049618,71,No,37,Self Employed,UK,2900,19000,Own,0,6563,Paid
+970792,20,Yes,1,Unemployed,UK,30,31500,Own,1,3283,Defaulted
+602585,49,No,5,Employed,UK,0,52500,Own,2,3641,Paid
+678807,60,Yes,13,Unemployed,UK,990,52500,Own,2,47176,Defaulted
+858708,74,Yes,36,Unemployed,UK,2560,48000,Own,1,29187,Paid
+1055624,85,Yes,61,Unemployed,UK,3130,42500,Own,2,8176,Defaulted
+964867,30,No,5,Self Employed,UK,60,30500,Rent,0,26124,Defaulted
+700000,69,Yes,6,Self Employed,UK,1840,38000,Mortgage,2,24450,Defaulted
+865775,39,No,2,Employed,UK,9360,53000,Mortgage,0,20619,Defaulted
+1008243,53,Yes,9,Employed,UK,6650,43000,Mortgage,1,23271,Paid
+907642,57,Yes,28,Self Employed,UK,10,18500,Own,0,3219,Paid
+1069106,20,Yes,3,Employed,UK,1140,27000,Rent,3,7181,Defaulted
+766717,67,Yes,24,Employed,UK,230,30000,Own,1,11688,Paid
+584937,46,No,2,Self Employed,UK,3200,49000,Rent,1,26276,Defaulted
+1008079,86,No,41,Self Employed,UK,620,26500,Own,1,14725,Defaulted
+1104463,62,No,17,Self Employed,UK,7200,25000,Rent,0,17061,Paid
+900142,28,No,5,Self Employed,UK,6260,29000,Own,1,28689,Paid
+758805,33,Yes,12,Unemployed,UK,400,49000,Own,1,21223,Defaulted
+772865,82,Yes,57,Self Employed,UK,750,27000,Mortgage,2,510,Defaulted
+915967,19,Yes,1,Self Employed,UK,330,40000,Mortgage,3,15131,Defaulted
+558448,87,No,4,Employed,UK,760,31500,Own,0,8574,Defaulted
+805921,84,No,23,Unemployed,UK,390,30500,Mortgage,1,26034,Defaulted
+849336,67,Yes,32,Self Employed,UK,6760,32500,Own,0,29124,Paid
+982581,65,Yes,12,Unemployed,UK,1400,47000,Own,0,38778,Paid
+926696,40,Yes,20,Unemployed,UK,2830,48000,Own,3,15269,Defaulted
+765843,84,Yes,24,Self Employed,UK,2200,51500,Own,1,23856,Paid
+839433,77,Yes,3,Unemployed,UK,440,43500,Mortgage,0,6124,Paid
+558850,18,Yes,1,Unemployed,UK,20,38000,Own,2,29872,Paid
+838392,57,Yes,1,Employed,UK,170,22500,Own,1,14767,Paid
+954464,74,No,18,Unemployed,UK,8450,40000,Mortgage,2,26267,Paid
+945909,35,Yes,15,Self Employed,UK,1600,41500,Mortgage,0,5695,Paid
+961768,80,No,51,Self Employed,UK,1270,52500,Own,1,46439,Paid
+1061290,78,No,9,Unemployed,UK,230,53000,Mortgage,1,19698,Paid
+905565,32,No,1,Unemployed,UK,2520,52500,Own,0,46134,Paid
+1091238,47,No,9,Employed,UK,8800,43500,Mortgage,0,37657,Defaulted
+605775,34,Yes,14,Unemployed,UK,210,12000,Mortgage,0,5153,Paid
+914307,46,No,5,Unemployed,UK,4920,37000,Mortgage,0,12259,Paid
+791810,25,No,2,Self Employed,UK,10,27000,Own,2,20671,Defaulted
+600339,68,No,5,Self Employed,UK,180,24000,Mortgage,0,9328,Paid
+909212,56,Yes,30,Self Employed,UK,3810,36500,Own,0,459,Paid
+799283,25,No,6,Unemployed,UK,330,44000,Mortgage,0,7005,Paid
+599240,58,Yes,32,Self Employed,UK,1630,48000,Rent,1,10573,Paid
+743845,26,Yes,8,Unemployed,UK,10,37500,Rent,0,6521,Paid
+1091004,34,Yes,12,Self Employed,UK,2670,52000,Mortgage,2,10833,Paid
+858494,63,Yes,36,Unemployed,UK,7430,8000,Mortgage,1,4226,Paid
+734058,21,Yes,4,Self Employed,UK,1090,44000,Rent,0,20456,Paid
+794670,69,No,49,Unemployed,UK,1900,48500,Own,0,22881,Defaulted
+983330,50,No,14,Self Employed,UK,1460,53500,Own,0,2226,Defaulted
+571374,72,No,47,Unemployed,UK,5860,31000,Own,3,14565,Defaulted
+603555,19,Yes,2,Unemployed,UK,150,31500,Rent,0,10187,Paid
+687143,62,Yes,21,Self Employed,UK,6000,48000,Own,1,20648,Defaulted
+856481,51,No,4,Self Employed,UK,1930,30500,Mortgage,2,14549,Defaulted
+975180,18,Yes,1,Unemployed,UK,1510,51500,Mortgage,1,10784,Defaulted
+1059587,39,Yes,22,Unemployed,UK,8120,42000,Mortgage,3,24655,Defaulted
+637891,45,No,17,Self Employed,UK,0,36000,Mortgage,1,27930,Paid
+777540,43,No,4,Employed,UK,380,24000,Mortgage,2,23400,Defaulted
+687744,60,Yes,30,Unemployed,UK,8270,36000,Own,3,6089,Defaulted
+995528,20,Yes,3,Self Employed,UK,3600,49000,Rent,2,29625,Defaulted
+840317,77,Yes,35,Unemployed,UK,5500,24000,Mortgage,0,13549,Paid
+803003,53,No,7,Self Employed,UK,4110,44500,Own,0,19262,Paid
+613982,33,Yes,1,Employed,UK,2510,23000,Own,0,7019,Paid
+1002955,23,Yes,4,Self Employed,UK,1260,54000,Mortgage,2,51673,Defaulted
+1026269,75,No,54,Self Employed,UK,4440,46000,Own,3,16940,Defaulted
+801386,67,Yes,9,Self Employed,UK,5520,38000,Mortgage,0,16764,Paid
+950045,30,Yes,3,Employed,UK,9730,44500,Rent,2,25427,Defaulted
+757287,37,No,17,Self Employed,UK,220,12000,Mortgage,3,2392,Paid
+596522,84,No,45,Self Employed,UK,530,33000,Mortgage,0,17146,Paid
+1017111,84,Yes,13,Self Employed,UK,2280,42500,Own,0,41130,Paid
+1092504,59,No,32,Employed,UK,2990,37500,Own,1,3039,Paid
+801251,28,Yes,2,Employed,UK,9020,25000,Rent,3,24065,Defaulted
+560691,61,No,12,Self Employed,UK,210,11500,Own,2,6498,Defaulted
+713009,49,Yes,20,Unemployed,UK,4170,29000,Mortgage,0,28513,Paid
+719349,28,No,5,Unemployed,UK,1210,30500,Mortgage,0,17391,Paid
+589487,23,Yes,1,Unemployed,UK,1600,31000,Own,1,7357,Paid
+898294,47,No,6,Self Employed,UK,410,51000,Own,2,23816,Defaulted
+921811,24,Yes,4,Self Employed,UK,10,47000,Mortgage,0,21857,Paid
+662382,41,Yes,9,Self Employed,UK,90,38000,Own,0,23232,Paid
+1015423,42,Yes,4,Employed,UK,1330,50000,Own,0,19020,Defaulted
+846792,51,No,17,Self Employed,UK,4330,37000,Mortgage,1,25172,Paid
+886187,84,No,28,Unemployed,UK,8380,41500,Mortgage,0,38201,Defaulted
+1095506,23,Yes,5,Self Employed,UK,1570,52500,Own,1,23003,Paid
+606264,52,Yes,4,Employed,UK,1470,44000,Own,0,35208,Paid
+705922,43,Yes,7,Unemployed,UK,0,54500,Rent,0,45514,Defaulted
+744639,32,No,13,Self Employed,UK,3560,33500,Mortgage,3,1412,Defaulted
+774702,25,Yes,3,Employed,UK,8960,47500,Rent,0,20474,Defaulted
+949183,36,No,9,Self Employed,UK,2650,26500,Own,1,22587,Paid
+586561,24,No,1,Employed,UK,360,46500,Own,3,38858,Paid
+747564,57,No,10,Unemployed,UK,2890,34500,Mortgage,0,28122,Paid
+839658,57,Yes,10,Self Employed,UK,3050,53500,Own,1,4928,Defaulted
+926683,37,Yes,18,Self Employed,UK,2030,53000,Own,0,45449,Paid
+813573,23,Yes,1,Unemployed,UK,1120,46000,Mortgage,2,27691,Paid
+679729,30,No,6,Employed,UK,6340,38000,Own,3,29708,Paid
+748905,80,No,32,Self Employed,UK,7690,26500,Own,0,25334,Paid
+732148,38,Yes,7,Employed,UK,2990,53500,Own,0,52614,Paid
+766673,73,Yes,4,Unemployed,UK,1300,45000,Own,0,19892,Defaulted
+791044,26,No,7,Unemployed,UK,1780,49000,Own,0,14086,Paid
+827479,69,Yes,32,Self Employed,UK,430,50000,Own,0,15183,Paid
+837089,80,Yes,37,Self Employed,UK,1450,8500,Own,1,740,Paid
+1104013,78,No,35,Employed,UK,30,28500,Own,1,7982,Paid
+1105327,59,Yes,38,Unemployed,UK,0,16500,Own,2,3293,Paid
+1068385,49,No,20,Self Employed,UK,7450,42000,Own,0,41275,Paid
+623713,61,No,19,Self Employed,UK,9100,27000,Rent,0,4917,Paid
+635833,69,No,32,Self Employed,UK,2700,41500,Own,1,27664,Paid
+878894,17,Yes,1,Self Employed,UK,6330,37000,Own,0,34355,Paid
+765515,29,No,5,Self Employed,UK,630,28500,Mortgage,0,4685,Paid
+675706,89,No,44,Unemployed,UK,3030,54500,Mortgage,3,12095,Defaulted
+1036017,33,No,10,Self Employed,UK,140,48000,Mortgage,1,34162,Defaulted
+775051,63,No,1,Unemployed,UK,9050,27500,Rent,3,2700,Defaulted
+586685,64,Yes,15,Unemployed,UK,1680,47000,Mortgage,0,9852,Paid
+667333,85,Yes,8,Unemployed,UK,960,28500,Own,0,17614,Paid
+659629,66,Yes,48,Employed,UK,2800,28500,Mortgage,0,1824,Defaulted
+748227,17,Yes,1,Self Employed,UK,8960,53500,Mortgage,3,29851,Defaulted
+661346,20,N,2,Self Employed,UK,1970,43500,Mortgage,0,21577,Defaulted
+836084,34,Yes,12,Self Employed,UK,4290,46500,Own,0,9731,Paid
+1050534,83,Yes,6,Self Employed,UK,1660,51000,Mortgage,0,32494,Paid
+610945,44,Yes,13,Unemployed,UK,4980,51500,Mortgage,3,26694,Defaulted
+1065383,22,Yes,5,Self Employed,UK,410,54000,Mortgage,2,23238,Defaulted
+602326,54,No,33,Self Employed,UK,2910,38000,Own,1,1304,Paid
+1087165,57,No,9,Self Employed,UK,620,23000,Own,0,10805,Paid
+915546,40,Yes,14,Self Employed,UK,270,44000,Mortgage,1,19351,Paid
+1050020,39,No,12,Self Employed,UK,50,17000,Own,0,8128,Paid
+611043,46,Yes,2,Employed,UK,1370,43000,Mortgage,0,7750,Defaulted
+993790,67,Yes,37,Self Employed,UK,1590,38000,Own,1,19438,Paid
+919904,43,No,25,Self Employed,UK,1150,42500,Own,0,6940,Paid
+822367,49,No,30,Employed,UK,2740,34500,Mortgage,3,21270,Paid
+753862,51,No,31,Unemployed,UK,40,54000,Own,0,36942,Paid
+781131,51,Yes,21,Employed,UK,4770,34000,Rent,0,2137,Paid
+814336,78,No,36,Self Employed,UK,7020,49500,Own,2,48566,Defaulted
+864602,42,Yes,12,Self Employed,UK,1300,24500,Own,0,2201,Paid
+626098,36,No,10,Employed,UK,180,53500,Mortgage,1,4623,Paid
+591505,87,No,59,Employed,UK,470,11500,Own,1,6657,Paid
+931202,72,No,30,Self Employed,UK,8680,14000,Mortgage,1,10197,Defaulted
+937689,17,Yes,1,Self Employed,UK,1840,41000,Mortgage,1,8011,Paid
+631119,75,No,46,Self Employed,UK,480,43500,Own,1,5327,Paid
+584719,86,Yes,11,Unemployed,UK,0,46500,Own,1,28529,Defaulted
+660649,60,No,28,Self Employed,UK,7950,54000,Own,0,42580,Paid
+853707,58,No,8,Self Employed,UK,0,54000,Own,0,10925,Paid
+1020111,24,No,6,Unemployed,UK,7400,40000,Mortgage,0,36288,Paid
+665934,76,Yes,29,Self Employed,UK,4380,40000,Own,0,31774,Paid
+848677,46,Yes,19,Unemployed,UK,8240,18500,Mortgage,0,5857,Defaulted
+848349,64,Yes,10,Self Employed,UK,7890,39500,Own,2,37621,Defaulted
+959559,70,No,52,Self Employed,UK,420,32500,Rent,1,18067,Paid
+691212,20,Yes,1,Unemployed,UK,3100,23000,Mortgage,0,3507,Defaulted
+758770,79,Yes,3,Unemployed,UK,2310,14000,Own,0,2657,Defaulted
+1015506,76,No,41,Employed,UK,5590,24000,Rent,2,18252,Defaulted
+589294,41,Yes,12,Self Employed,UK,2160,35000,Own,3,23050,Defaulted
+645579,72,No,16,Self Employed,UK,2170,50000,Mortgage,3,21827,Defaulted
+593616,87,Yes,15,Self Employed,UK,450,51000,Rent,0,39113,Paid
+1088454,29,No,2,Retired,UK,550,40500,Rent,2,22719,Defaulted
+860301,45,Yes,2,Unemployed,UK,180,54000,Rent,1,36127,Paid
+616456,71,Yes,6,Self Employed,UK,3880,37500,Mortgage,0,31668,Paid
+1080752,79,Yes,26,Self Employed,UK,10,41500,Own,1,26530,Paid
+1024172,28,No,6,Self Employed,UK,570,23500,Own,3,6687,Defaulted
+813733,66,Yes,4,Self Employed,UK,230,37500,Mortgage,0,26033,Paid
+1015995,69,No,29,Self Employed,UK,1550,53500,Rent,0,43534,Paid
+1028071,23,No,5,Self Employed,UK,5240,36500,Own,1,18730,Paid
+567588,53,No,29,Self Employed,UK,2630,43000,Own,1,20314,Defaulted
+630794,26,No,8,Self Employed,UK,1700,35500,Own,1,4347,Paid
+1015987,74,No,40,Self Employed,UK,2320,50500,Mortgage,2,34375,Defaulted
+609264,30,No,4,Employed,UK,3630,18000,Rent,0,12513,Defaulted
+946922,49,No,17,Self Employed,UK,9810,27500,Mortgage,0,14005,Defaulted
+805304,63,Yes,6,Employed,UK,110,46500,Own,2,41485,Paid
+883117,87,No,6,Employed,UK,740,32000,Own,0,4384,Paid
+570682,59,Yes,18,Unemployed,UK,3420,37000,Own,0,36825,Defaulted
+1003049,75,Yes,12,Unemployed,UK,4560,21000,Own,1,8726,Paid
+901553,71,No,38,Self Employed,UK,1660,51000,Own,0,50099,Paid
+811754,46,No,11,Unemployed,UK,7310,38500,Own,0,11225,Paid
+632114,44,Yes,22,Unemployed,UK,1230,39000,Own,0,11204,Paid
+739567,70,No,50,Employed,UK,1280,31000,Mortgage,0,6432,Paid
+902100,83,Yes,53,Unemployed,UK,9780,9000,Own,2,8351,Defaulted
+650086,33,No,8,Self Employed,UK,850,52000,Mortgage,0,152,Defaulted
+598530,39,Yes,3,Unemployed,UK,6490,40500,Mortgage,1,6793,Paid
+1021660,72,Yes,27,Self Employed,UK,0,45500,Mortgage,3,26704,Defaulted
+1003851,29,No,1,Unemployed,UK,2860,44500,Mortgage,3,35453,Defaulted
+677808,79,No,21,Self Employed,UK,740,52500,Rent,0,30452,Paid
+1097688,72,Yes,13,Unemployed,UK,2640,35000,Mortgage,2,20278,Defaulted
+917287,29,No,11,Employed,UK,1230,41500,Mortgage,3,1515,Defaulted
+922047,78,No,56,Self Employed,UK,70,53000,Mortgage,1,8145,Paid
+923028,20,Yes,1,Self Employed,UK,0,20000,Own,0,14659,Paid
+1017387,47,No,17,Self Employed,UK,710,33000,Own,1,30153,Paid
+793695,88,No,24,Self Employed,UK,2390,25000,Own,2,15286,Defaulted
+569978,21,No,2,Self Employed,UK,1210,45500,Rent,1,4196,Paid
+574384,22,No,1,Self Employed,UK,0,54000,Mortgage,0,32097,Paid
+1082248,82,Yes,2,Self Employed,UK,330,31500,Own,3,11183,Defaulted
+628607,80,No,37,Unemployed,UK,3830,16000,Own,0,1785,Paid
+987924,38,No,14,Employed,UK,2690,54000,Own,0,45634,Paid
+967323,56,Yes,1,Self Employed,UK,7820,30000,Own,2,15450,Defaulted
+647281,68,Yes,9,Unemployed,UK,9460,32500,Mortgage,2,12945,Defaulted
+764651,82,No,18,Employed,UK,320,18500,Mortgage,0,3519,Paid
+739989,18,Yes,1,Unemployed,UK,90,40000,Mortgage,0,37003,Defaulted
+563863,35,No,10,Unemployed,UK,4140,40000,Rent,1,25144,Paid
+640166,42,No,2,Unemployed,UK,1940,49000,Own,0,34231,Paid
+848672,41,Yes,2,Self Employed,UK,2380,38000,Own,2,11769,Defaulted
+1004748,82,Yes,45,Self Employed,UK,2510,38500,Rent,3,14592,Defaulted
+757704,70,No,11,Self Employed,UK,3850,31500,Mortgage,0,8931,Defaulted
+1082749,50,No,4,Self Employed,UK,3160,36500,Own,1,22473,Paid
+1080895,78,Yes,58,Unemployed,UK,830,31500,Own,3,30069,Defaulted
+971656,76,No,5,Self Employed,UK,4180,37500,Own,1,23225,Paid
+825236,70,No,42,Self Employed,UK,6590,31000,Mortgage,0,15605,Paid
+575730,43,Yes,10,Self Employed,UK,3330,21000,Own,0,7461,Paid
+877906,57,No,22,Self Employed,UK,6550,54500,Own,0,520,Paid
+684481,67,No,45,Self Employed,UK,830,24000,Own,0,16783,Paid
+998494,87,No,34,Unemployed,UK,4500,44000,Own,0,7086,Paid
+1075998,37,No,9,Unemployed,UK,6320,46500,Own,2,26609,Defaulted
+624217,45,Yes,11,Unemployed,UK,0,38000,Rent,1,26773,Paid
+768186,28,No,11,Self Employed,UK,9130,42500,Rent,0,33214,Paid
+806461,40,No,12,Unemployed,UK,4260,47000,Mortgage,1,88,Paid
+974471,46,Yes,21,Unemployed,UK,660,41000,Mortgage,0,3197,Paid
+1044602,52,No,31,Self Employed,UK,1610,52500,Rent,1,35593,Paid
+788133,26,No,7,Self Employed,UK,4060,25000,Own,2,10139,Defaulted
+591285,36,No,15,Unemployed,UK,120,39000,Rent,1,3377,Paid
+909712,88,Yes,17,Employed,UK,490,38500,Mortgage,3,31280,Defaulted
+736022,20,No,2,Unemployed,UK,40,46000,Mortgage,3,11651,Defaulted
+929067,23,Yes,6,Unemployed,UK,1970,53000,Own,1,20987,Paid
+823783,55,No,19,Self Employed,UK,200,44000,Mortgage,0,775,Paid
+1070780,73,Yes,7,Employed,UK,550,36500,Mortgage,2,9288,Defaulted
+828885,62,No,32,Self Employed,UK,1400,33500,Own,2,22320,Paid
+1011094,45,Yes,11,Unemployed,UK,710,52500,Own,0,33605,Paid
+842533,63,Yes,39,Employed,UK,110,11000,Mortgage,3,6309,Defaulted
+709603,56,No,6,Unemployed,UK,2130,51000,Own,0,34435,Paid
+709763,86,Yes,43,Employed,UK,1470,43000,Own,1,8641,Paid
+1035574,85,No,10,Self Employed,UK,6950,40000,Own,0,26381,Paid
+885195,17,No,1,Self Employed,UK,1070,49500,Mortgage,1,42585,Paid
+916953,64,Yes,40,Self Employed,UK,5680,26500,Own,2,6566,Defaulted
+888578,89,No,47,Unemployed,UK,1870,30000,Own,3,11875,Defaulted
+882299,83,Yes,59,Employed,UK,3450,35500,Mortgage,1,26539,Defaulted
+910068,21,No,4,Self Employed,UK,1550,32000,Mortgage,0,26127,Defaulted
+1020780,80,Yes,37,Self Employed,UK,2120,41500,Mortgage,0,22657,Paid
+960018,61,Yes,9,Employed,UK,130,25000,Mortgage,1,10269,Defaulted
+596114,57,No,23,Unemployed,UK,30,42000,Mortgage,0,13920,Paid
+690523,64,No,5,Self Employed,UK,5420,41000,Mortgage,0,14592,Defaulted
+927511,25,Yes,5,Self Employed,UK,9310,27500,Mortgage,0,5958,Defaulted
+708056,89,No,71,Employed,UK,3270,25000,Own,0,21370,Paid
+781188,84,No,22,Self Employed,UK,9900,44000,Mortgage,1,21907,Defaulted
+702808,43,Yes,18,Self Employed,UK,8490,33000,Mortgage,0,2158,Defaulted
+625376,22,No,5,Unemployed,UK,2200,52500,Own,3,47835,Paid
+1034281,46,No,23,Self Employed,UK,0,43500,Own,0,23021,Paid
+802623,71,Yes,37,Employed,UK,5700,36000,Mortgage,0,9637,Paid
+1102460,37,No,5,Employed,UK,6650,46500,Own,3,33842,Paid
+952096,81,No,22,Unemployed,UK,140,14500,Own,0,13391,Paid
+1049582,69,Yes,10,Unemployed,UK,7370,45000,Own,0,19960,Paid
+673338,28,Yes,4,Employed,UK,8660,13000,Own,1,8651,Defaulted
+1089412,25,Yes,6,Unemployed,UK,570,40000,Mortgage,0,10403,Paid
+589806,70,Yes,48,Employed,UK,4190,48000,Mortgage,2,27908,Defaulted
+1062832,25,Yes,1,Employed,UK,450,21500,Own,3,16330,Defaulted
+978169,65,Yes,32,Self Employed,UK,2580,35000,Mortgage,2,19045,Defaulted
+1012563,24,No,1,Unemployed,UK,110,38500,Own,1,36221,Paid
+964981,41,No,8,Unemployed,UK,300,17500,Own,1,5686,Paid
+708404,40,No,19,Self Employed,UK,1860,38000,Own,0,37832,Paid
+898906,55,No,27,Self Employed,UK,3290,51500,Own,0,47067,Paid
+759339,17,No,1,Self Employed,UK,4040,51500,Own,0,13477,Paid
+651222,38,No,18,Self Employed,UK,4730,54500,Mortgage,1,15053,Defaulted
+768763,67,Yes,49,Self Employed,UK,7350,39000,Own,0,24718,Paid
+565540,18,No,1,Self Employed,UK,1450,40000,Own,0,2428,Paid
+621349,58,Yes,3,Unemployed,UK,1490,35000,Rent,0,23890,Defaulted
+623073,49,No,22,Self Employed,UK,5150,37000,Mortgage,0,32243,Paid
+845019,64,No,47,Employed,UK,10,46000,Rent,1,19792,Paid
+990910,52,Yes,14,Employed,UK,4840,32000,Own,2,3358,Paid
+830367,33,No,2,Self Employed,UK,8390,25500,Own,2,22685,Paid
+980041,38,No,4,Self Employed,UK,1010,21000,Own,0,19366,Defaulted
+858184,55,Yes,21,Self Employed,UK,480,30000,Own,0,6515,Paid
+1054563,75,No,25,Unemployed,UK,7740,32000,Own,0,9551,Defaulted
+656194,53,Yes,18,Self Employed,UK,50,32000,Own,0,17547,Paid
+1082094,50,No,22,Employed,UK,940,54500,Mortgage,1,15719,Paid
+579152,75,No,46,Unemployed,UK,4970,23500,Mortgage,0,10320,Paid
+1028402,43,Yes,7,Unemployed,UK,9430,27000,Own,0,9393,Defaulted
+643062,17,No,1,Employed,UK,0,54500,Mortgage,0,38853,Defaulted
+592495,59,No,4,Unemployed,UK,1210,35500,Own,0,29639,Paid
+1073738,89,No,5,Self Employed,UK,1180,41000,Own,1,34693,Paid
+723904,40,No,3,Unemployed,UK,10,36000,Own,2,9543,Defaulted
+743744,81,Yes,57,Self Employed,UK,2020,33500,Mortgage,0,15408,Paid
+788846,36,No,17,Employed,UK,0,6500,Own,0,3069,Paid
+1021026,26,No,8,Self Employed,UK,410,50500,Own,0,240,Paid
+580711,76,No,52,Employed,UK,310,49000,Own,3,18115,Paid
+1026994,76,Yes,59,Self Employed,UK,5160,10000,Own,1,7829,Paid
+747589,29,Yes,4,Self Employed,UK,2180,42000,Mortgage,0,35945,Paid
+730146,29,No,6,Unemployed,UK,3980,44000,Own,2,35891,Defaulted
+827291,50,No,1,Self Employed,UK,3760,10000,Own,2,4063,Defaulted
+983156,85,No,50,Self Employed,UK,9580,37500,Own,0,27079,Paid
+1020590,42,No,19,Self Employed,UK,9260,180000,Own,0,17846,Paid
+813778,78,No,48,Self Employed,UK,2170,45000,Own,1,13887,Paid
+903090,46,No,9,Self Employed,UK,4470,9000,Mortgage,0,2508,Paid
+927971,84,Yes,36,Self Employed,UK,300,13000,Own,0,8114,Paid
+896802,54,Yes,14,Unemployed,UK,50,40500,Own,1,31086,Paid
+566011,62,Yes,14,Unemployed,UK,1200,28500,Rent,0,10357,Paid
+965235,62,No,9,Self Employed,UK,3650,37000,Own,1,2700,Paid
+987631,65,Yes,15,Self Employed,UK,1640,44500,Own,3,19317,Defaulted
+1108579,60,N,25,Self Employed,UK,2750,32000,Mortgage,0,31577,Paid
+912080,36,No,14,Self Employed,UK,2100,49000,Rent,0,42154,Paid
+1029903,27,Yes,4,Self Employed,UK,2800,30500,Mortgage,1,28950,Paid
+567601,48,No,16,Employed,UK,20,27500,Mortgage,0,10290,Defaulted
+1105198,74,No,37,Self Employed,UK,3200,51500,Own,0,21803,Defaulted
+671061,17,Yes,1,Unemployed,UK,9970,17000,Rent,0,4124,Defaulted
+617252,67,Yes,29,Employed,UK,10,22500,Own,0,6250,Paid
+923919,40,Yes,16,Self Employed,UK,6330,39500,Mortgage,1,27593,Paid
+785371,36,Yes,3,Self Employed,UK,9300,50500,Mortgage,0,46760,Defaulted
+752177,82,No,27,Self Employed,UK,7970,50000,Mortgage,0,44149,Paid
+665277,58,No,18,Unemployed,UK,4890,29000,Mortgage,2,22643,Defaulted
+1062334,29,No,3,Self Employed,UK,7120,33500,Own,3,17113,Defaulted
+941392,71,No,36,Self Employed,UK,280,30000,Own,0,14000,Paid
+833373,37,No,5,Self Employed,UK,140,29500,Own,0,21765,Paid
+731933,88,No,18,Self Employed,UK,600,25000,Own,1,20245,Paid
+798111,17,No,1,Unemployed,UK,1130,36000,Mortgage,1,21240,Paid
+1045703,21,Yes,3,Self Employed,UK,5270,37000,Mortgage,1,32165,Paid
+1017161,29,Yes,10,Unemployed,UK,7510,52000,Own,1,24605,Paid
+570535,33,No,11,Self Employed,UK,780,48500,Own,3,34367,Defaulted
+588144,25,No,2,Employed,UK,8370,22000,Own,2,15288,Defaulted
+802796,63,No,12,Self Employed,UK,860,23500,Own,1,4520,Defaulted
+1074965,54,No,27,Self Employed,UK,170,49500,Mortgage,2,7555,Defaulted
+828342,89,Yes,54,Self Employed,UK,9800,51000,Rent,1,12184,Defaulted
+990986,74,Yes,33,Unemployed,UK,800,40000,Rent,0,12062,Defaulted
+734322,51,Yes,7,Unemployed,UK,620,45500,Own,0,18304,Paid
+844856,89,Yes,4,Employed,UK,2900,35500,Own,0,25988,Paid
+1005670,68,No,44,Employed,UK,6840,50500,Mortgage,0,36479,Paid
+798160,43,Yes,13,Self Employed,UK,8620,48000,Own,2,2564,Defaulted
+1014968,19,Yes,1,Employed,UK,6830,18500,Mortgage,3,8565,Defaulted
+964156,85,Yes,11,Employed,UK,360,44000,Own,3,41264,Paid
+742226,54,No,12,Unemployed,UK,7620,47500,Mortgage,2,17592,Defaulted
+791002,33,Yes,13,Unemployed,UK,800,44500,Own,0,14848,Defaulted
+715653,59,No,10,Unemployed,UK,4330,46000,Own,3,16507,Paid
+1097409,76,No,1,Unemployed,UK,0,36500,Own,2,4484,Defaulted
+1069293,20,No,3,Unemployed,UK,500,27000,Mortgage,0,23555,Defaulted
+907945,33,No,8,Employed,UK,6500,51500,Mortgage,0,22706,Paid
+1043604,84,No,28,Employed,UK,6320,51500,Mortgage,1,27893,Paid
+702148,86,No,13,Unemployed,UK,4660,21000,Own,3,8853,Defaulted
+1034702,82,No,40,Self Employed,UK,450,30500,Rent,1,261,Paid
+950029,35,No,12,Self Employed,UK,20,46000,Own,0,8176,Paid
+809075,61,Yes,10,Self Employed,UK,1520,47000,Own,0,27229,Paid
+565627,87,No,25,Self Employed,UK,4630,38500,Own,0,11270,Paid
+1076918,67,Yes,36,Self Employed,UK,140,17500,Rent,0,10647,Paid
+795477,72,No,39,Unemployed,UK,520,24000,Mortgage,0,13680,Paid
+990550,18,Yes,1,Self Employed,UK,9920,46000,Own,1,26102,Defaulted
+620382,26,Yes,6,Unemployed,UK,150,18500,Mortgage,3,3156,Defaulted
+639579,59,No,26,Unemployed,UK,1930,50000,Rent,3,43519,Defaulted
+648836,51,Yes,4,Employed,UK,3750,35500,Mortgage,2,10246,Defaulted
+754153,85,No,25,Unemployed,UK,0,34000,Own,2,13,Defaulted
+985020,41,No,14,Employed,UK,5060,33500,Mortgage,0,19432,Paid
+1018351,67,Yes,7,Self Employed,UK,0,45000,Mortgage,0,23286,Paid
+670023,67,No,31,Self Employed,UK,8980,15000,Own,2,10802,Paid
+1063079,38,No,11,Self Employed,UK,1600,30500,Own,0,27399,Paid
+815602,40,Yes,6,Self Employed,UK,2730,15500,Own,1,1017,Paid
+634937,43,Yes,13,Self Employed,UK,3460,43000,Own,3,35297,Defaulted
+927981,50,No,15,Self Employed,UK,410,46000,Rent,0,5593,Paid
+1044455,85,No,40,Unemployed,UK,7800,11000,Own,3,6675,Defaulted
+806165,79,Yes,15,Employed,UK,510,53000,Rent,0,51791,Paid
+819914,30,No,4,Self Employed,UK,6560,50500,Own,3,17001,Defaulted
+963041,87,No,29,Employed,UK,180,52500,Mortgage,2,26495,Paid
+1097452,88,No,32,Self Employed,UK,9190,54500,Rent,2,15536,Defaulted
+1090076,79,No,3,Self Employed,UK,3150,46500,Own,2,42953,Defaulted
+795914,85,Yes,3,Self Employed,UK,7850,54000,Own,0,4678,Paid
+1061406,86,Yes,45,Unemployed,UK,2950,41000,Own,2,13466,Defaulted
+1075394,85,No,560,Self Employed,UK,2160,45500,Own,1,4963,Paid
+713011,27,No,4,Self Employed,UK,760,38500,Own,0,16417,Paid
+668290,81,No,18,Unemployed,UK,1100,53000,Own,3,2664,Defaulted
+986670,86,No,69,Unemployed,UK,3110,45500,Own,2,44375,Defaulted
+582283,82,No,28,Unemployed,UK,80,36500,Mortgage,2,32850,Defaulted
+877006,30,No,13,Self Employed,UK,1550,37000,Mortgage,1,3883,Paid
+858053,73,Yes,54,Self Employed,UK,7370,33500,Own,2,7992,Defaulted
+1056304,65,Yes,6,Employed,UK,0,52500,Own,0,26948,Paid
+737928,34,Yes,1,Employed,UK,140,37000,Own,0,22947,Paid
+915826,19,Yes,1,Employed,UK,1670,44500,Own,0,35609,Defaulted
+851859,84,Yes,24,Self Employed,UK,530,53000,Rent,0,34513,Paid
+1102868,65,No,1,Self Employed,UK,8790,51500,Mortgage,0,23697,Defaulted
+1039485,43,Yes,26,Unemployed,UK,90,48000,Own,0,12595,Defaulted
+734811,65,No,31,Self Employed,UK,0,53500,Rent,1,33423,Paid
+848083,24,Yes,2,Self Employed,UK,2180,47000,Mortgage,2,27726,Defaulted
+814297,63,No,14,Unemployed,UK,1390,50500,Own,0,47406,Paid
+972381,70,No,8,Self Employed,UK,1860,40500,Mortgage,0,5687,Paid
+591587,78,No,26,Self Employed,UK,3200,49000,Mortgage,1,35472,Paid
+952254,61,Yes,9,Employed,UK,120,48500,Own,1,34253,Paid
+815932,68,Yes,9,Self Employed,UK,3500,40500,Own,0,37606,Defaulted
+1043793,75,No,19,Self Employed,UK,5350,51000,Mortgage,0,37038,Paid
+1027442,79,Yes,18,Employed,UK,5400,48500,Own,2,45280,Paid
+1012492,29,No,3,Self Employed,UK,610,45500,Rent,3,37046,Defaulted
+568331,65,Yes,5,Self Employed,UK,6400,33000,Own,1,7552,Paid
+905021,20,Yes,2,Unemployed,UK,9270,34000,Mortgage,3,6876,Paid
+737147,51,No,9,Unemployed,UK,180,51500,Own,1,50942,Paid
+806223,34,No,10,Unemployed,UK,3990,50500,Own,0,3921,Paid
+959062,55,Yes,34,Employed,UK,1350,30500,Rent,1,23500,Paid
+565450,23,Yes,3,Unemployed,UK,1170,46500,Rent,2,22548,Defaulted
+559546,17,Yes,1,Self Employed,UK,60,50000,Rent,0,39968,Paid
+575474,34,Yes,10,Self Employed,UK,6280,54000,Own,3,49548,Defaulted
+620768,53,Yes,17,Self Employed,UK,1600,28500,Mortgage,2,20544,Defaulted
+878133,53,No,8,Self Employed,UK,5580,49000,Mortgage,2,46720,Paid
+689897,71,No,38,Unemployed,UK,7770,22500,Own,0,1015,Paid
+627922,45,No,1,Self Employed,UK,1060,48500,Rent,3,38750,Defaulted
+960855,70,No,38,Self Employed,UK,1150,49500,Own,1,41700,Paid
+1034085,49,Yes,24,Employed,UK,2360,38500,Own,2,24808,Paid
+1037576,19,No,1,Self Employed,UK,4220,46000,Own,0,31795,Paid
+769177,84,No,33,Self Employed,UK,1140,50000,Mortgage,1,22787,Paid
+563268,33,Yes,12,Unemployed,UK,2200,22000,Own,0,3711,Defaulted
+1015145,74,No,19,Self Employed,UK,6790,52500,Own,2,8272,Defaulted
+583856,64,No,19,Unemployed,UK,90,27500,Own,0,25013,Paid
+1089876,65,No,26,Self Employed,UK,3490,39500,Own,1,38376,Paid
+997057,21,No,3,Unemployed,UK,290,45000,Own,2,24088,Paid
+928693,26,Yes,9,Self Employed,UK,1110,51500,Mortgage,3,50674,Defaulted
+1005228,24,Yes,5,Employed,UK,6740,49000,Mortgage,0,45681,Paid
+835333,34,Yes,12,Self Employed,UK,50,13500,Own,3,4724,Defaulted
+589529,53,Yes,3,Self Employed,UK,3340,51500,Rent,0,14188,Defaulted
+692482,62,No,30,Unemployed,UK,1920,49500,Own,2,13204,Paid
+885431,33,Yes,3,Self Employed,UK,3450,43500,Own,1,7302,Paid
+848902,43,No,4,Self Employed,UK,400,47000,Rent,1,32559,Paid
+883962,72,No,17,Employed,UK,420,46000,Own,3,40713,Defaulted
+945812,35,No,2,Self Employed,UK,4180,46500,Own,3,10313,Defaulted
+649120,60,Yes,13,Unemployed,UK,0,49500,Mortgage,3,38253,Defaulted
+813911,41,Yes,24,Unemployed,UK,4880,34500,Own,0,8103,Paid
+969933,67,No,40,Self Employed,UK,6420,53000,Rent,0,16488,Defaulted
+660350,47,Yes,21,Unemployed,UK,6870,25000,Own,1,18762,Paid
+795431,50,No,9,Self Employed,UK,3070,33500,Own,1,1902,Paid
+844628,51,Yes,31,Self Employed,UK,2130,51500,Rent,0,7982,Paid
+1045299,48,No,27,Unemployed,UK,580,51500,Own,2,41731,Defaulted
+1033011,47,No,28,Self Employed,UK,190,42000,Own,1,29089,Paid
+961925,55,Yes,9,Employed,UK,5670,50500,Own,3,37067,Paid
+733538,66,No,24,Self Employed,Spain,1050,17500,Own,0,10548,Paid
+865611,45,Yes,11,Employed,UK,5000,25500,Mortgage,0,17716,Paid
+1059685,35,No,14,Self Employed,UK,1680,51500,Own,3,49573,Defaulted
+1105470,80,Yes,23,Unemployed,UK,9380,22500,Mortgage,0,9153,Defaulted
+1025497,67,No,22,Self Employed,UK,3380,42000,Mortgage,3,20579,Defaulted
+985089,62,Yes,29,Self Employed,UK,7220,28500,Mortgage,2,21831,Defaulted
+1038576,21,No,2,Self Employed,UK,4170,46500,Own,3,18042,Defaulted
+882636,18,Yes,1,Self Employed,UK,1220,42000,Own,2,18156,Defaulted
+1061374,26,Yes,6,Unemployed,UK,8840,44000,Own,1,6163,Paid
+759152,42,No,15,Unemployed,UK,4650,34000,Mortgage,0,5093,Paid
+600702,53,No,15,Self Employed,UK,1930,22500,Mortgage,1,13663,Defaulted
+993891,44,Yes,5,Self Employed,UK,180,39000,Own,2,30337,Defaulted
+862648,23,No,4,Self Employed,UK,20,51500,Mortgage,1,9058,Paid
+846331,45,Yes,26,Employed,UK,7470,26500,Mortgage,3,21833,Paid
+850364,19,Yes,2,Unemployed,UK,690,49500,Own,1,1649,Paid
+836199,51,Yes,17,Unemployed,UK,7960,50500,Rent,0,42272,Paid
+1093439,65,Yes,28,Unemployed,UK,9610,39500,Own,1,20110,Defaulted
+1010009,37,Yes,11,Self Employed,UK,30,54000,Mortgage,2,51371,Defaulted
+958227,88,No,46,Unemployed,UK,3570,44000,Own,0,26509,Paid
+723540,41,Yes,18,Self Employed,UK,7790,17000,Own,1,12932,Paid
+986311,61,No,37,Self Employed,UK,7810,30500,Mortgage,3,21353,Defaulted
+720511,21,Yes,2,Employed,UK,8790,39500,Own,2,31362,Defaulted
+863463,76,No,24,Employed,UK,2560,28000,Own,1,1568,Paid
+730968,53,Yes,19,Employed,UK,5510,37500,Mortgage,3,28769,Defaulted
+826831,39,No,1,Unemployed,UK,900,47000,Mortgage,0,41652,Defaulted
+935748,56,Yes,14,Self Employed,UK,8200,33500,Own,0,3685,Defaulted
+707817,18,No,1,Self Employed,UK,5530,21000,Own,1,18929,Paid
+1028630,60,Yes,8,Self Employed,UK,1080,29000,Own,2,1410,Defaulted
+615584,52,No,26,Self Employed,UK,770,22000,Own,3,18839,Defaulted
+653758,47,No,28,Self Employed,UK,5140,43500,Own,2,3454,Defaulted
+977758,70,No,11,Self Employed,UK,3010,50000,Own,3,39821,Defaulted
+594153,89,Yes,11,Unemployed,UK,780,44000,Mortgage,0,3786,Defaulted
+1044296,25,No,2,Self Employed,UK,50,54000,Mortgage,0,12982,Defaulted
+872625,85,No,25,Self Employed,UK,1100,46000,Own,2,37818,Paid
+976716,74,Yes,7,Self Employed,UK,1200,40500,Own,1,1060,Defaulted
+908284,75,No,13,Self Employed,UK,10,35000,Own,0,19495,Paid
+684994,44,Yes,24,Self Employed,UK,840,43500,Mortgage,2,5852,Defaulted
+810550,23,Yes,1,Unemployed,UK,9050,53000,Own,1,34778,Defaulted
+568873,46,No,16,Employed,UK,1390,20000,Mortgage,1,2634,Defaulted
+567602,88,No,27,Employed,UK,900,52500,Mortgage,2,30196,Defaulted
+1105605,23,No,1,Self Employed,UK,6030,34000,Rent,2,30656,Defaulted
+764478,21,Yes,4,Employed,UK,20,23000,Mortgage,3,3175,Defaulted
+846588,30,No,9,Self Employed,UK,400,41500,Rent,1,24659,Paid
+604094,55,Yes,3,Self Employed,UK,90,51500,Own,1,31238,Paid
+981226,68,No,5,Self Employed,UK,2130,34000,Mortgage,3,32574,Defaulted
+751761,86,No,46,Unemployed,UK,710,41000,Own,0,29337,Paid
+725914,55,Yes,38,Self Employed,UK,2700,19500,Rent,0,15746,Paid
+972428,39,No,14,Unemployed,UK,7290,48500,Own,0,29702,Defaulted
+947553,79,Yes,33,Employed,UK,6580,54000,Own,2,10046,Paid
+812475,73,No,43,Self Employed,UK,50,19500,Own,2,6967,Paid
+767844,84,No,43,Unemployed,UK,1780,54500,Mortgage,2,42320,Defaulted
+709493,67,Yes,40,Self Employed,UK,30,52500,Own,2,30851,Defaulted
+1095026,56,Yes,4,Unemployed,UK,9090,54500,Mortgage,1,19033,Defaulted
+784772,88,No,36,Unemployed,UK,1090,24000,Own,1,16357,Paid
+705268,23,No,2,Self Employed,UK,2880,23500,Own,1,7247,Defaulted
+645529,52,Yes,33,Unemployed,UK,2330,21500,Rent,0,11176,Paid
+854035,85,Yes,55,Unemployed,UK,340,37500,Rent,0,6544,Paid
+1060330,51,Yes,3,Self Employed,UK,5320,54500,Own,0,1713,Paid
+609110,53,No,11,Self Employed,UK,1580,35000,Own,3,30225,Paid
+707941,35,No,6,Self Employed,UK,9520,50000,Own,0,11088,Paid
+1069461,29,No,8,Self Employed,UK,780,41000,Own,1,35581,Paid
+771664,63,Yes,13,Employed,UK,7920,28500,Rent,0,13714,Defaulted
+1065555,65,Yes,42,Unemployed,UK,4180,42000,Own,1,27399,Paid
+1060038,77,Yes,35,Self Employed,UK,2430,40500,Mortgage,2,5747,Defaulted
+758885,21,Yes,1,Employed,UK,9740,34000,Mortgage,3,24598,Defaulted
+845480,43,Yes,21,Self Employed,UK,4160,31000,Mortgage,0,25035,Paid
+895706,32,Yes,15,Unemployed,UK,2810,48000,Rent,1,18588,Paid
+688045,32,No,12,Employed,UK,9080,52500,Own,0,51478,Defaulted
+1102469,23,Yes,3,Unemployed,UK,9360,41000,Mortgage,0,36383,Defaulted
+1101479,35,Yes,15,Unemployed,UK,810,49500,Own,0,32457,Paid
+1102258,23,Yes,5,Unemployed,UK,7810,50000,Rent,2,9266,Defaulted
+1101270,58,No,3,Self Employed,UK,10,43500,Own,0,28312,Paid
+995794,71,Yes,30,Self Employed,UK,2600,14000,Mortgage,3,2476,Defaulted
+835426,30,Yes,1,Employed,UK,2580,32500,Own,2,28553,Paid
+709872,67,No,44,Self Employed,UK,4240,12500,Mortgage,2,1060,Defaulted
+941064,46,Yes,21,Unemployed,UK,3280,49500,Mortgage,2,37488,Defaulted
+933656,70,No,32,Self Employed,UK,130,29000,Rent,1,23182,Defaulted
+587841,42,No,17,Self Employed,UK,8150,33000,Rent,0,6888,Defaulted
+708483,69,No,46,Self Employed,UK,280,50000,Own,1,28099,Paid
+732388,48,No,5,Self Employed,UK,30,35500,Mortgage,0,11441,Paid
+783448,84,No,45,Unemployed,UK,1210,33500,Mortgage,2,24692,Paid
+789432,33,No,16,Self Employed,UK,50,24000,Rent,0,16860,Paid
+618512,61,No,29,Self Employed,UK,9040,53500,Own,0,21729,Defaulted
+1059602,77,Yes,36,Unemployed,UK,4370,24000,Mortgage,0,2336,Paid
+567341,82,Yes,36,Self Employed,UK,4590,34500,Own,3,6532,Paid
+869438,27,Yes,2,Self Employed,UK,9650,35000,Own,1,11692,Defaulted
+752162,26,Yes,7,Self Employed,UK,6740,42000,Rent,1,3345,Defaulted
+911939,61,No,17,Self Employed,UK,130,43000,Mortgage,0,19661,Paid
+695203,43,Yes,17,Unemployed,UK,860,49000,Mortgage,0,48225,Paid
+568452,45,Yes,17,Unemployed,UK,710,20000,Own,0,10162,Paid
+1034234,74,No,1,Unemployed,UK,2480,31500,Mortgage,0,1544,Defaulted
+755693,50,No,20,Self Employed,UK,6050,45500,Mortgage,2,22440,Defaulted
+1090382,63,No,29,Unemployed,UK,0,35000,Own,2,16928,Defaulted
+1059589,58,Yes,15,Unemployed,UK,2460,18000,Own,3,12017,Defaulted
+924844,60,Yes,22,Self Employed,UK,1560,36000,Rent,0,10506,Paid
+779329,51,Yes,12,Unemployed,UK,6690,53000,Own,3,24718,Defaulted
+1024537,49,No,28,Self Employed,UK,8740,52000,Own,3,25495,Paid
+625715,78,No,25,Employed,UK,90,53000,Own,2,40136,Paid
+859872,29,No,1,Employed,UK,4540,54000,Mortgage,1,42210,Paid
+885113,21,1,4,Self Employed,UK,4760,39500,Mortgage,2,12731,Defaulted
+975822,72,No,20,Self Employed,UK,870,38000,Mortgage,3,22089,Defaulted
+600838,81,No,10,Employed,UK,7720,52500,Mortgage,0,48071,Defaulted
+869260,85,Yes,2,Unemployed,UK,70,52000,Own,0,12756,Paid
+595256,88,No,39,Self Employed,UK,5520,40000,Mortgage,3,24379,Defaulted
+860175,24,Yes,2,Unemployed,UK,30,30000,Own,0,3641,Paid
+716553,38,Yes,18,Self Employed,UK,7910,23000,Own,1,12611,Paid
+980080,41,No,5,Unemployed,UK,2190,31500,Mortgage,1,19293,Paid
+924041,60,Yes,15,Unemployed,UK,4330,45500,Mortgage,1,26590,Paid
+910150,81,No,54,Self Employed,UK,8740,40500,Own,0,35287,Defaulted
+579170,52,Yes,32,Unemployed,UK,3870,46000,Rent,3,38405,Defaulted
+614055,83,No,48,Self Employed,UK,1220,44500,Mortgage,0,27959,Paid
+764457,86,Yes,24,Unemployed,UK,200,27500,Own,1,17877,Paid
+1007115,44,No,7,Self Employed,UK,170,44000,Own,2,23306,Defaulted
+987423,83,No,25,Self Employed,UK,4410,52500,Own,3,33405,Defaulted
+881864,34,Yes,5,Self Employed,UK,180,35500,Mortgage,0,30484,Paid
+944185,82,Yes,6,Unemployed,UK,9800,36000,Mortgage,3,7564,Defaulted
+933877,26,Yes,7,Self Employed,UK,2140,51000,Mortgage,0,48920,Defaulted
+645285,25,No,8,Self Employed,UK,290,44000,Own,1,15679,Paid
+666154,41,Yes,18,Unemployed,UK,2130,43500,Own,2,2429,Defaulted
+907915,37,No,3,Employed,UK,3520,25500,Own,0,6190,Paid
+680942,75,Yes,19,Unemployed,UK,3360,21000,Own,0,10325,Defaulted
+857693,81,Yes,9,Unemployed,UK,1090,26000,Own,0,18497,Paid
+581354,27,Yes,2,Self Employed,UK,4370,32500,Own,100,9162,Paid
+796186,29,No,8,Unemployed,UK,1450,42500,Rent,1,9049,Paid
+894432,59,Yes,8,Self Employed,UK,4780,43000,Mortgage,0,15659,Paid
+916588,62,Yes,40,Self Employed,UK,6290,34500,Own,3,33884,Defaulted
+1087112,30,Yes,11,Unemployed,UK,870,36500,Rent,0,32167,Paid
+625057,59,No,14,Self Employed,UK,1370,35000,Own,0,9079,Paid
+1033006,72,Yes,27,Self Employed,UK,250,45500,Own,0,41591,Paid
+1002804,49,No,14,Employed,UK,7000,9000,Own,1,543,Paid
+869559,18,No,1,Employed,UK,2030,45000,Own,0,25693,Defaulted
+813026,33,Yes,12,Unemployed,UK,1250,38500,Mortgage,0,1621,Paid
+881585,83,Yes,33,Self Employed,UK,4490,34500,Own,0,29309,Paid
+1013231,73,No,38,Unemployed,UK,20,37500,Own,2,31232,Defaulted
+582054,58,Yes,30,Employed,UK,1910,52500,Rent,0,3732,Paid
+796753,62,No,39,Self Employed,UK,3410,53500,Own,0,40662,Paid
+980741,84,Yes,16,Employed,UK,880,53000,Mortgage,1,46059,Defaulted
+751663,54,No,24,Self Employed,UK,650,41000,Own,0,17187,Paid
+664233,87,Yes,70,Unemployed,UK,4550,22000,Own,2,15641,Paid
+666265,49,Yes,2,Unemployed,UK,2090,42000,Rent,0,38800,Paid
+971059,22,No,5,Self Employed,UK,10,35500,Own,0,8424,Paid
+588376,37,Yes,15,Employed,UK,1250,29500,Mortgage,0,16722,Paid
+910515,77,No,60,Self Employed,UK,2340,44500,Rent,3,25169,Defaulted
+1072664,62,No,27,Self Employed,UK,760,48000,Mortgage,2,2220,Defaulted
+853415,40,No,23,Self Employed,UK,1750,51000,Mortgage,0,15703,Paid
+759933,34,Yes,9,Self Employed,UK,1030,40500,Own,1,31226,Paid
+970218,53,Yes,8,Unemployed,UK,8080,41500,Rent,2,26065,Defaulted
+894397,30,Yes,10,Self Employed,UK,4130,19500,Mortgage,0,5317,Defaulted
+825692,37,No,2,Employed,UK,1300,38000,Rent,0,20750,Defaulted
+759689,32,Yes,2,Self Employed,UK,4030,52000,Mortgage,3,626,Defaulted
+662541,60,No,1,Self Employed,UK,5540,32000,Rent,0,13428,Paid
+1009535,29,No,4,Self Employed,UK,5860,47500,Own,2,25867,Defaulted
+926504,69,No,44,Unemployed,UK,710,53000,Own,1,45109,Paid
+1037772,24,Yes,2,Employed,UK,7440,35000,Own,1,3380,Paid
+615306,60,Yes,35,Unemployed,UK,1820,40500,Own,3,32197,Paid
+568270,62,No,21,Self Employed,UK,840,41000,Mortgage,0,11865,Paid
+611248,68,Yes,45,Unemployed,UK,5140,37500,Own,0,23415,Paid
+982254,27,Yes,7,Employed,UK,0,34500,Mortgage,0,30636,Paid
+1109473,79,Yes,51,Self Employed,UK,6610,51500,Own,1,43510,Paid
+734953,68,Yes,15,Self Employed,UK,7950,15500,Own,1,8885,Paid
+609356,51,Yes,24,Self Employed,UK,4010,31000,Mortgage,0,11498,Defaulted
+608857,25,No,5,Self Employed,UK,7920,43000,Own,0,30088,Paid
+903834,28,Yes,1,Self Employed,UK,460,35500,Mortgage,0,6761,Defaulted
+818792,38,No,3,Employed,UK,5720,52000,Own,1,48093,Defaulted
+829571,27,No,10,Self Employed,UK,6360,32500,Own,1,27062,Paid
+1008793,72,No,49,Self Employed,UK,20,29000,Mortgage,0,712,Paid
+836703,60,Yes,7,Self Employed,UK,7880,48000,Own,1,678,Paid
+972228,89,No,59,Unemployed,UK,1680,36500,Own,3,32371,Paid
+592184,22,No,2,Unemployed,UK,3620,38000,Own,1,10370,Defaulted
+990826,37,Yes,13,Employed,UK,2420,40500,Own,3,12040,Paid
+770973,25,No,6,Unemployed,UK,0,35500,Mortgage,0,9909,Paid
+775321,62,Yes,15,Unemployed,UK,5270,48500,Mortgage,0,28092,Paid
+874535,21,Yes,4,Self Employed,UK,1200,35500,Own,3,29023,Defaulted
+964930,52,No,6,Unemployed,UK,3380,35500,Own,0,24234,Paid
+619435,29,Yes,12,Self Employed,UK,7650,44000,Mortgage,1,2662,Paid
+883863,34,Yes,10,Self Employed,UK,290,10500,Own,3,7302,Defaulted
+935217,42,Yes,16,Self Employed,UK,6180,40500,Mortgage,0,39355,Paid
+1095511,58,Yes,12,Unemployed,UK,160,41500,Own,3,8013,Defaulted
+927634,75,Yes,40,Self Employed,UK,670,50000,Mortgage,3,20079,Paid
+754790,82,Yes,54,Employed,UK,5490,42000,Own,0,10323,Defaulted
+897068,48,No,16,Self Employed,UK,960,54500,Own,2,49584,Defaulted
+898823,32,No,6,Self Employed,UK,5070,37000,Own,2,15645,Defaulted
+884444,58,Yes,28,Unemployed,UK,6430,49000,Rent,0,21061,Paid
+636398,76,No,9,Self Employed,UK,3490,39500,Own,0,18971,Defaulted
+723982,35,No,6,Unemployed,UK,6560,48000,Own,1,2325,Defaulted
+774819,33,No,4,Employed,UK,2530,20500,Own,0,5906,Defaulted
+962393,52,No,19,Employed,UK,100,52500,Mortgage,1,3567,Paid
+882006,39,No,6,Employed,UK,4660,53500,Rent,3,26956,Defaulted
+945296,32,No,4,Self Employed,UK,870,38000,Own,0,7548,Defaulted
+737065,86,Yes,11,Unemployed,UK,1990,24000,Mortgage,2,305,Paid
+703327,75,No,11,Self Employed,UK,2670,42500,Own,1,34252,Defaulted
+730242,75,Yes,58,Self Employed,UK,6540,33000,Mortgage,0,5940,Paid
+677418,18,No,1,Employed,UK,1080,34500,Own,1,18744,Paid
+622423,84,No,32,Self Employed,UK,130,30500,Own,0,22435,Defaulted
+686387,85,Yes,28,Unemployed,UK,1640,52500,Own,0,29580,Paid
+596300,39,No,20,Self Employed,UK,1830,7000,Own,0,3177,Paid
+677897,24,Yes,5,Self Employed,UK,1140,49500,Rent,0,28954,Paid
+1069886,19,No,2,Employed,UK,3620,54000,Mortgage,1,24676,Paid
+738999,51,No,12,Self Employed,UK,6460,21500,Mortgage,1,5564,Defaulted
+686159,33,No,16,Self Employed,UK,1180,40500,Own,2,36618,Defaulted
+833718,40,No,9,Self Employed,UK,3770,51000,Own,3,35981,Defaulted
+984597,66,No,3,Self Employed,UK,6210,26000,Own,2,12092,Defaulted
+838048,65,Yes,11,Unemployed,UK,1030,48500,Own,0,21953,Paid
+614742,17,No,1,Self Employed,UK,2990,41000,Mortgage,0,31036,Defaulted
+580179,69,No,32,Self Employed,UK,7760,48500,Own,1,3393,Paid
+881208,58,No,3,Unemployed,UK,9610,19000,Mortgage,3,4344,Paid
+705393,27,Yes,7,Self Employed,UK,620,47500,Own,0,30003,Paid
+608841,70,No,39,Self Employed,UK,4750,12000,Own,1,10637,Defaulted
+1044929,19,Yes,2,Unemployed,UK,2110,50000,Mortgage,2,46825,Defaulted
+687305,59,No,7,Self Employed,UK,10,11500,Own,2,8835,Defaulted
+764965,58,Yes,13,Self Employed,UK,4870,53000,Mortgage,3,35785,Defaulted
+1108394,85,Yes,66,Self Employed,UK,6440,46000,Own,0,1647,Paid
+605866,73,No,5,Unemployed,UK,8140,13000,Own,1,6887,Paid
+1014503,45,No,28,Employed,UK,2930,50000,Own,2,16619,Paid
+828610,62,Yes,13,Self Employed,UK,450,45000,Mortgage,0,10983,Paid
+783115,76,Yes,11,Self Employed,UK,260,54000,Own,0,11380,Paid
+587244,33,Yes,2,Employed,UK,450,32000,Own,1,16559,Paid
+1108839,36,Yes,7,Self Employed,UK,4290,20000,Mortgage,0,7358,Paid
+1026182,36,No,2,Self Employed,UK,80,39000,Own,0,9827,Defaulted
+793550,36,No,12,Unemployed,UK,8990,44000,Rent,0,4339,Defaulted
+717011,47,Yes,19,Self Employed,UK,480,40500,Own,3,17164,Defaulted
+558675,46,Yes,6,Unemployed,UK,820,52000,Own,3,12027,Defaulted
+926353,65,Yes,37,Self Employed,UK,6500,54500,Mortgage,1,9836,Paid
+920669,66,No,5,Self Employed,UK,360,52000,Own,1,47804,Defaulted
+647026,61,No,30,Self Employed,UK,8450,40000,Mortgage,3,38158,Defaulted
+1093781,85,Yes,49,Self Employed,UK,3030,21500,Own,0,354,Paid
+712588,31,Yes,10,Self Employed,UK,1720,40500,Mortgage,2,11535,Paid
+691908,37,Yes,18,Unemployed,UK,110,49000,Own,0,37723,Defaulted
+1049601,74,No,53,Employed,UK,2580,17000,Mortgage,2,16826,Defaulted
+1084611,40,Yes,6,Self Employed,UK,440,9000,Rent,1,6704,Defaulted
+802423,85,No,4,Employed,UK,4340,38000,Own,0,1613,Paid
+886717,39,0,18,Self Employed,UK,4790,51500,Mortgage,3,1640,Defaulted
+1095072,74,Yes,56,Unemployed,UK,0,31000,Own,1,22692,Paid
+848435,76,No,18,Self Employed,UK,1600,52000,Own,2,15689,Defaulted
+709453,69,No,5,Employed,UK,70,54000,Mortgage,0,48085,Defaulted
+953026,25,No,8,Unemployed,UK,8060,27000,Rent,3,11184,Defaulted
+727227,63,Yes,8,Self Employed,UK,3200,48000,Mortgage,0,6803,Paid
+563696,56,No,12,Employed,UK,0,54500,Own,0,8458,Paid
+943851,33,No,4,Unemployed,UK,510,39000,Own,1,37240,Paid
+1057786,25,Yes,2,Self Employed,UK,400,12500,Own,0,5037,Paid
+850398,83,Yes,56,Unemployed,UK,3170,38500,Mortgage,0,10089,Paid
+1030831,63,Yes,1,Unemployed,UK,5790,40500,Rent,0,8089,Paid
+853022,22,Yes,1,Self Employed,UK,8160,37500,Own,1,22891,Defaulted
+673478,20,No,1,Employed,UK,3460,14000,Own,1,13546,Paid
+1077081,19,Yes,2,Self Employed,UK,6050,23500,Own,1,14971,Paid
+765713,74,No,47,Employed,UK,6040,37500,Rent,3,35539,Defaulted
+1083449,81,Yes,21,Self Employed,UK,90,38500,Own,0,3485,Paid
+635647,53,Yes,35,Unemployed,UK,3330,29000,Own,0,20759,Paid
+791582,46,No,24,Employed,UK,400,26500,Own,1,12921,Paid
+772387,66,Yes,31,Self Employed,UK,10,23000,Own,2,8560,Paid
+838662,51,Yes,26,Employed,UK,730,35000,Own,0,30987,Paid
+623463,83,Yes,65,Unemployed,UK,2570,18500,Mortgage,1,18319,Defaulted
+1074063,50,Yes,11,Self Employed,UK,3950,27500,Own,1,21509,Paid
+796679,37,No,15,Self Employed,UK,7870,19500,Mortgage,2,18982,Defaulted
+688404,32,Yes,2,Self Employed,UK,2070,49500,Mortgage,1,14940,Paid
+941249,29,No,9,Unemployed,UK,9410,42500,Own,0,23442,Defaulted
+774144,34,Yes,16,Self Employed,UK,7680,41500,Rent,0,32427,Paid
+1006647,38,No,13,Employed,UK,2830,52500,Mortgage,1,33619,Paid
+1104069,82,Yes,62,Self Employed,UK,0,54000,Mortgage,0,5485,Paid
+654955,80,Yes,41,Employed,UK,5840,39000,Mortgage,2,21823,Paid
+623460,86,Yes,43,Employed,UK,2410,44500,Own,1,34243,Paid
+975117,40,No,20,Employed,UK,1480,54500,Mortgage,0,3974,Paid
+859095,83,Yes,1,Self Employed,UK,5990,34500,Mortgage,0,15279,Defaulted
+756718,75,Yes,45,Unemployed,UK,1770,45000,Own,1,677,Paid
+995054,89,Yes,40,Unemployed,UK,220,42000,Rent,1,10696,Paid
+1077765,68,Yes,36,Unemployed,UK,9510,50000,Rent,2,49704,Defaulted
+1019894,85,No,26,Self Employed,UK,4590,44000,Own,0,39212,Defaulted
+1074337,31,No,6,Self Employed,UK,1040,37500,Mortgage,1,24537,Paid
+1060019,37,No,6,Self Employed,UK,8150,47000,Own,0,27239,Defaulted
+1079489,85,No,37,Employed,UK,1060,16000,Own,2,6121,Defaulted
+615965,54,Yes,2,Self Employed,UK,6500,53500,Own,0,48427,Paid
+1050293,63,Yes,33,Self Employed,UK,80,35000,Mortgage,1,15832,Paid
+980062,63,No,42,Unemployed,UK,2700,42500,Mortgage,3,18470,Defaulted
+1059704,49,No,17,Unemployed,UK,2110,32000,Own,2,30312,Defaulted
+908756,41,Yes,19,Unemployed,UK,2940,32500,Mortgage,2,7559,Defaulted
+784136,52,No,20,Self Employed,UK,2310,23500,Own,2,14845,Defaulted
+934161,49,Yes,29,Employed,UK,3260,50000,Own,2,3618,Defaulted
+911031,71,Yes,37,Employed,UK,6880,37500,Own,2,27937,Paid
+748424,89,No,4,Unemployed,UK,8750,42000,Own,1,19958,Defaulted
+1059640,69,Yes,4,Unemployed,UK,1780,23500,Own,2,385,Defaulted
+793545,23,No,3,Self Employed,UK,2440,44000,Own,0,1381,Defaulted
+763470,37,No,5,Self Employed,UK,4780,23000,Mortgage,2,7697,Defaulted
+710559,77,No,55,Unemployed,UK,3370,32000,Own,0,25140,Paid
+962676,63,No,46,Self Employed,UK,2490,50500,Own,2,16804,Defaulted
+746556,37,Yes,17,Self Employed,UK,1350,21000,Own,0,3755,Defaulted
+900073,49,Yes,14,Employed,UK,8250,38000,Mortgage,2,32912,Defaulted
+885395,78,Yes,25,Self Employed,UK,4350,34500,Mortgage,3,31999,Defaulted
+1106851,52,No,13,Unemployed,UK,5170,14500,Own,1,5773,Paid
+614553,82,Yes,22,Self Employed,UK,3660,30500,Own,0,16284,Defaulted
+756792,58,No,35,Unemployed,UK,670,43500,Mortgage,1,41702,Paid
+878056,65,Yes,28,Self Employed,UK,290,54500,Mortgage,0,7246,Defaulted
+826310,57,Yes,38,Self Employed,UK,5960,35000,Mortgage,1,21956,Paid
+1005445,88,No,7,Self Employed,UK,6970,50000,Mortgage,3,43467,Defaulted
+807755,41,No,3,Employed,UK,80,3000,Own,1,2790,Paid
+1026271,70,No,6,Employed,UK,8330,48000,Mortgage,0,41251,Defaulted
+1026341,76,Yes,35,Self Employed,UK,1140,37000,Mortgage,1,25478,Paid
+996539,32,No,5,Unemployed,UK,310,54500,Own,2,30314,Defaulted
+921257,63,No,18,Unemployed,UK,2350,48000,Mortgage,1,46727,Paid
+1098143,26,Yes,4,Unemployed,UK,7540,46000,Mortgage,3,37419,Paid
+806990,88,No,40,Self Employed,UK,5290,24000,Own,0,163,Paid
+577026,69,Yes,31,Self Employed,UK,770,37500,Own,2,36332,Defaulted
+890585,88,Yes,37,Unemployed,UK,3350,36000,Mortgage,2,19773,Defaulted
+882477,51,No,6,Employed,UK,110,25500,Own,2,24770,Defaulted
+937914,21,No,3,Employed,UK,300,36500,Own,0,19323,Paid
+619815,66,No,29,Unemployed,UK,130,31500,Rent,2,17150,Defaulted
+669534,85,Yes,45,Self Employed,UK,2170,51000,Mortgage,1,43748,Paid
+1049452,82,No,11,Self Employed,UK,2320,39000,Mortgage,0,17963,Paid
+717552,29,No,3,Employed,UK,100,45000,Rent,3,37642,Defaulted
+965370,33,Yes,8,Employed,UK,2390,54500,Own,1,6014,Paid
+575906,24,No,5,Self Employed,UK,2790,37500,Mortgage,3,31316,Defaulted
+645402,19,No,2,Self Employed,UK,60,26500,Own,0,22540,Paid
+584807,20,No,2,Employed,UK,30,46500,Mortgage,2,31881,Defaulted
+708711,33,No,11,Self Employed,UK,8850,32000,Own,3,15627,Defaulted
+929492,24,Yes,6,Employed,UK,110,54500,Rent,0,37833,Paid
+800717,69,No,25,Employed,UK,7140,48500,Mortgage,1,22618,Defaulted
+627685,83,Yes,28,Self Employed,UK,50,34500,Own,0,20386,Paid
+795947,28,Yes,10,Unemployed,UK,7330,51500,Rent,1,14633,Paid
+1059297,54,No,20,Self Employed,UK,1750,38000,Own,3,30248,Defaulted
+636038,59,No,36,Retired,UK,140,50000,Mortgage,0,14904,Defaulted
+607248,39,Yes,10,Self Employed,UK,2920,44000,Mortgage,1,36080,Defaulted
+576753,53,Yes,9,Self Employed,UK,7290,54000,Own,0,30353,Paid
+918579,40,No,23,Unemployed,UK,0,51500,Own,0,10149,Paid
+921585,82,No,43,Self Employed,UK,4130,27000,Own,3,23219,Defaulted
+941700,26,Yes,3,Self Employed,UK,150,39000,Mortgage,3,32534,Defaulted
+979574,46,No,3,Self Employed,UK,9300,11000,Mortgage,0,3282,Defaulted
+1023243,19,Yes,2,Self Employed,UK,5360,30000,Mortgage,1,1674,Defaulted
+852226,68,Yes,5,Self Employed,UK,2990,44000,Own,2,3324,Defaulted
+734703,44,Yes,3,Unemployed,UK,6000,52500,Own,0,23593,Paid
+911232,52,No,12,Employed,UK,4950,51500,Own,0,17685,Paid
+733722,81,No,40,Self Employed,UK,30,44500,Rent,0,28336,Paid
+891963,65,No,21,Employed,UK,3320,25500,Own,0,3124,Paid
+979506,82,No,21,Employed,UK,40,29500,Own,0,13352,Paid
+645562,73,No,31,Self Employed,UK,4440,54000,Mortgage,1,28768,Paid
+836420,53,Yes,33,Self Employed,UK,7910,35000,Own,0,5222,Paid
+957866,18,Yes,1,Self Employed,UK,60,37000,Mortgage,1,33398,Paid
+898104,66,No,8,Unemployed,UK,1310,34500,Own,2,30824,Defaulted
+974602,41,No,10,Unemployed,UK,2610,10500,Own,1,7318,Paid
+1060691,62,No,9,Unemployed,UK,1160,35500,Own,0,25811,Paid
+790979,66,No,26,Self Employed,UK,1750,46000,Mortgage,1,1115,Paid
+760648,52,No,32,Employed,UK,2370,35000,Own,3,28963,Paid
+969774,17,No,1,Self Employed,UK,110,54000,Mortgage,1,11315,Paid
+723430,21,Yes,2,Unemployed,UK,4040,50000,Rent,1,49997,Defaulted
+962202,28,Yes,10,Self Employed,UK,9150,48500,Mortgage,0,37417,Defaulted
+560609,40,Yes,5,Self Employed,UK,3880,37500,Own,3,7001,Paid
+1054515,50,No,11,Self Employed,UK,520,47500,Mortgage,3,28760,Defaulted
+1052306,77,Yes,16,Unemployed,UK,3760,25000,Own,0,16441,Paid
+1025025,79,Yes,27,Employed,UK,5060,29000,Rent,0,24701,Paid
+994483,58,No,10,Employed,UK,3240,25500,Rent,0,11223,Paid
+753433,53,No,22,Employed,UK,6160,30500,Own,1,16014,Defaulted
+580544,25,Yes,7,Self Employed,UK,3540,37000,Mortgage,0,26393,Paid
+782097,78,Yes,52,Unemployed,UK,9900,25500,Mortgage,3,10864,Defaulted
+826212,79,No,32,Unemployed,UK,3450,29000,Own,0,26338,Paid
+938949,79,Yes,24,Self Employed,UK,1090,46000,Own,2,41195,Defaulted
+579824,55,Yes,25,Unemployed,UK,6130,41500,Mortgage,0,7140,Paid
+689468,63,Yes,4,Unemployed,UK,2470,11500,Own,0,11215,Defaulted
+973207,62,Yes,7,Unemployed,UK,1310,48000,Mortgage,0,45557,Defaulted
+1047625,56,Yes,7,Self Employed,UK,5730,50500,Own,1,47662,Paid
+872765,61,Yes,31,Self Employed,UK,2000,47500,Own,1,923,Paid
+667844,24,Yes,5,Employed,UK,350,22500,Rent,0,9370,Defaulted
+851097,66,Yes,1,Self Employed,UK,3220,22000,Own,0,7495,Paid
+1070659,18,No,1,Unemployed,UK,1450,39500,Mortgage,0,33385,Paid
+567900,69,Yes,20,Employed,UK,80,32000,Mortgage,0,30527,Paid
+1076494,28,No,11,Unemployed,UK,830,54500,Own,1,11843,Paid
+917599,47,No,12,Self Employed,UK,750,41500,Mortgage,2,7464,Paid
+943095,39,Yes,12,Self Employed,UK,60,19000,Own,1,2177,Paid
+923204,65,Yes,42,Self Employed,UK,7260,31500,Own,0,5186,Defaulted
+1026162,20,1,3,Unemployed,UK,670,38000,Rent,1,5700,Defaulted
+1076649,53,No,36,Unemployed,UK,7600,20500,Own,0,13542,Paid
+915111,62,Yes,9,Unemployed,UK,20,51000,Own,1,7262,Defaulted
+932912,39,Yes,1,Self Employed,UK,2840,35000,Own,1,20712,Paid
+989119,55,No,33,Self Employed,UK,4200,40500,Own,0,17511,Paid
+930618,79,Yes,4,Unemployed,UK,1710,30500,Rent,0,23595,Paid
+1059703,41,No,18,Unemployed,UK,0,41500,Rent,3,17037,Defaulted
+867784,88,Yes,49,Unemployed,UK,5700,49500,Mortgage,2,34643,Paid
+766612,46,No,27,Self Employed,UK,90,48500,Own,0,30037,Paid
+1110920,41,Yes,2,Self Employed,UK,9770,43500,Own,1,19325,Defaulted
+592600,88,Yes,42,Employed,UK,0,21500,Own,0,8644,Paid
+1001107,30,No,13,Self Employed,UK,570,42500,Own,3,38962,Defaulted
+671920,35,Yes,17,Employed,UK,9540,29500,Own,0,29433,Defaulted
+899261,29,No,6,Self Employed,UK,140,48500,Own,0,39432,Paid
+893807,45,Yes,2,Unemployed,UK,1630,47000,Mortgage,1,8332,Paid
+648585,62,No,9,Self Employed,UK,3880,18000,Rent,2,16683,Defaulted
+625635,34,Yes,2,Self Employed,UK,9450,45000,Mortgage,0,20978,Defaulted
+681749,27,Yes,7,Employed,UK,1050,31000,Rent,1,14644,Paid
+786547,83,No,2,Self Employed,UK,6760,21000,Own,0,16895,Paid
+963954,25,Yes,3,Unemployed,UK,6430,28000,Mortgage,2,6734,Defaulted
+815291,22,Yes,3,Employed,UK,30,25000,Own,3,19124,Defaulted
+1048375,37,No,6,Unemployed,UK,850,47500,Mortgage,2,39889,Defaulted
+618928,76,Yes,11,Self Employed,UK,7150,34000,Rent,2,2521,Paid
+654558,75,Yes,32,Self Employed,UK,560,11500,Own,0,3463,Paid
+747106,70,No,38,Self Employed,UK,270,48000,Own,2,8798,Paid
+619717,18,Yes,1,Unemployed,UK,4100,25000,Mortgage,0,13548,Defaulted
+884947,50,No,2,Self Employed,UK,2390,48000,Own,1,2606,Paid
+822997,73,Yes,45,Employed,UK,4090,53000,Mortgage,2,43116,Defaulted
+579231,19,Yes,1,Self Employed,UK,7520,54000,Mortgage,3,22842,Defaulted
+602462,78,No,2,Self Employed,UK,30,31500,Mortgage,3,7854,Paid
+812062,41,No,4,Self Employed,UK,50,19000,Mortgage,0,5342,Paid
+864314,17,Yes,1,Self Employed,UK,4620,35500,Mortgage,0,26342,Paid
+591708,26,No,6,Self Employed,UK,120,26000,Own,2,7207,Defaulted
+795866,47,Yes,9,Unemployed,UK,3180,16000,Mortgage,3,2051,Paid
+1039129,27,No,2,Unemployed,UK,4330,51500,Rent,0,48659,Paid
+672843,25,Yes,1,Self Employed,UK,6440,49500,Own,2,16075,Defaulted
+1096742,79,No,40,Employed,UK,3140,38000,Rent,2,31641,Defaulted
+951501,20,Yes,1,Employed,UK,7180,28500,Own,1,15795,Paid
+856399,32,No,6,Employed,UK,1560,43000,Own,0,293,Paid
+955623,43,Yes,23,Unemployed,UK,9530,50000,Own,0,6378,Defaulted
+859867,36,No,2,Self Employed,UK,60,36000,Own,1,8423,Paid
+1068844,65,No,27,Self Employed,UK,640,44000,Own,1,20039,Paid
+872548,29,No,3,Self Employed,UK,5240,27000,Own,0,20750,Paid
+753350,62,No,32,Employed,UK,7080,45500,Rent,1,29575,Paid
+595771,44,Yes,24,Self Employed,UK,270,48500,Mortgage,0,11573,Defaulted
+602895,49,Yes,6,Self Employed,UK,6010,33500,Mortgage,1,27607,Paid
+1079799,66,No,17,Self Employed,UK,9040,36000,Own,1,16173,Paid
+628838,67,No,22,Unemployed,UK,3530,54500,Mortgage,0,54455,Paid
+722429,67,No,36,Unemployed,UK,3260,35500,Mortgage,1,10021,Paid
+647717,67,No,3,Self Employed,UK,520,35000,Mortgage,0,23732,Defaulted
+891480,49,Yes,1,Self Employed,UK,2690,31500,Rent,0,23186,Defaulted
+1061062,45,No,10,Self Employed,UK,2490,49000,Rent,0,16629,Paid
+603709,32,No,1,Unemployed,UK,1240,51000,Own,2,30207,Defaulted
+572356,86,Yes,50,Employed,UK,820,26500,Mortgage,0,4238,Paid
+1019685,63,No,15,Employed,UK,3230,30000,Mortgage,2,17591,Paid
+1093433,46,No,3,Self Employed,UK,3010,24000,Own,2,4666,Defaulted
+650307,78,Yes,12,Self Employed,UK,9480,30000,Own,2,4156,Defaulted
+587033,72,No,53,Unemployed,UK,2590,23000,Own,2,12712,Defaulted
+753158,61,No,13,Self Employed,UK,510,40000,Own,0,26089,Paid
+995697,25,Yes,5,Unemployed,UK,2690,49000,Own,3,15549,Paid
+904555,77,No,43,Unemployed,UK,2260,49000,Mortgage,2,26195,Paid
+682360,41,No,16,Unemployed,UK,6570,22000,Own,0,12609,Defaulted
+768013,30,No,7,Self Employed,UK,2330,52000,Rent,1,17716,Paid
+830046,38,Yes,7,Unemployed,UK,1490,38500,Rent,1,3415,Paid
+936652,56,No,20,Unemployed,UK,0,12000,Own,3,10164,Defaulted
+828010,20,Yes,1,Self Employed,Germany,410,27500,Own,2,11059,Defaulted
+1032641,58,No,32,Self Employed,UK,3220,32500,Own,2,16150,Defaulted
+1098005,73,Yes,15,Unemployed,UK,6050,48000,Own,2,20937,Defaulted
+1044300,38,No,6,Unemployed,UK,3630,49000,Own,2,41842,Paid
+606094,55,No,8,Self Employed,UK,840,44500,Own,0,43055,Paid
+778281,62,No,21,Unemployed,UK,480,31500,Mortgage,3,25036,Defaulted
+590888,62,No,6,Unemployed,UK,5370,37500,Mortgage,0,21305,Paid
+759891,83,Yes,20,Unemployed,UK,650,46500,Own,0,42450,Paid
+879438,48,No,5,Self Employed,UK,8300,17500,Own,0,6235,Defaulted
+1016300,64,Yes,30,Unemployed,UK,400,50500,Own,1,18285,Paid
+988731,60,Yes,2,Self Employed,UK,0,51000,Rent,3,25219,Defaulted
+1032114,38,No,6,Self Employed,UK,10,49000,Mortgage,1,23169,Paid
+869813,71,Yes,22,Unemployed,UK,900,45000,Mortgage,0,7473,Paid
+596598,49,No,24,Unemployed,UK,930,39000,Rent,0,27806,Paid
+980734,73,Yes,8,Self Employed,UK,150,16500,Mortgage,0,12772,Paid
+1022173,46,No,27,Self Employed,UK,20,39500,Own,0,9479,Paid
+759856,60,Yes,4,Self Employed,UK,2900,22500,Own,1,15725,Paid
+810444,24,Yes,7,Self Employed,UK,5130,38000,Own,0,35911,Paid
+767192,34,No,5,Unemployed,UK,6530,41500,Own,2,6874,Paid
+808753,52,Yes,2,Employed,UK,930,32500,Own,0,5412,Paid
+1037992,42,No,3,Self Employed,UK,10,49000,Own,0,3835,Defaulted
