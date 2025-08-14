@@ -1,6 +1,7 @@
-import requests
 import csv
 from getpass import getpass
+
+import requests
 
 # --------- CONFIGURATION ---------
 # IMPORTANT: Change this to your GitHub username or organization name
