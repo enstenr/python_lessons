@@ -1,0 +1,30 @@
+Assignees,Estimate,IssueNumber,Labels,State,Title,URL
+,,64,,CLOSED,Dropdown value not retaining in the back page. it shows the Value . it should show the text,https://github.com/enstenr/azolla-euas-frontend/issues/64
+,0.5,65,enhancement,CLOSED,display message for mobile user,https://github.com/enstenr/azolla-euas-frontend/issues/65
+,,15,,CLOSED,Change Color code of button,https://github.com/enstenr/azolla-euas-frontend/issues/15
+,,16,,CLOSED,Market opens api pricing,https://github.com/enstenr/azolla-euas-frontend/issues/16
+,,17,,CLOSED,Convert back button to arrow as per figma,https://github.com/enstenr/azolla-euas-frontend/issues/17
+,,18,,CLOSED,Space alignment as per figma,https://github.com/enstenr/azolla-euas-frontend/issues/18
+,,19,,CLOSED,Dropdown text updation as per figma,https://github.com/enstenr/azolla-euas-frontend/issues/19
+,,20,,CLOSED,Background color of page #F8F9FB,https://github.com/enstenr/azolla-euas-frontend/issues/20
+,0.5,21,enhancement,CLOSED,i icon in limit price -  Your preferred max price per EUA,https://github.com/enstenr/azolla-euas-frontend/issues/21
+,0.5,43,enhancement,CLOSED,"Meta description - Submit a live EUA purchase request in minutes. Instant price, flexible volume, and expert follow-up – no trading account needed.",https://github.com/enstenr/azolla-euas-frontend/issues/43
+,0.5,44,enhancement,CLOSED,Title tag - Purchase EUAs – Live Price & Requisition Form,https://github.com/enstenr/azolla-euas-frontend/issues/44
+,0.5,45,enhancement,CLOSED,Currently the link is https://ets.azolla.sg/requestion let’s update it to https://ets.azolla.sg/Buy_EUA,https://github.com/enstenr/azolla-euas-frontend/issues/45
+,0.5,46,enhancement,CLOSED,Ok now on the other side of the requisition form,https://github.com/enstenr/azolla-euas-frontend/issues/46
+,,47,,CLOSED,Let’s remove the box before “Azolla indicative prices”,https://github.com/enstenr/azolla-euas-frontend/issues/47
+,,48,,CLOSED,Spelling mistake in “Raise a Requisition”,https://github.com/enstenr/azolla-euas-frontend/issues/48
+,0.5,49,enhancement,CLOSED,Let the default limit price be the current live price,https://github.com/enstenr/azolla-euas-frontend/issues/49
+,,50,,CLOSED,The drop-down arrow in the preferred delivery timeline is offset.,https://github.com/enstenr/azolla-euas-frontend/issues/50
+,,51,,CLOSED,"The preferred delivery timeline field text size is different from the rest, so let’s update it.",https://github.com/enstenr/azolla-euas-frontend/issues/51
+,,52,,CLOSED,Let’s make the box colour(Graph and Requisition)  lighter,https://github.com/enstenr/azolla-euas-frontend/issues/52
+,,53,,CLOSED,Let’s increase the space between the header and the boxes,https://github.com/enstenr/azolla-euas-frontend/issues/53
+,,54,,CLOSED,https://www.figma.com/design/brCP7rwyMT3VCEw11KELGv/Req-PF?node-id=0-1&t=uqMkl8Tc0RrsN9yr-1,https://github.com/enstenr/azolla-euas-frontend/issues/54
+,0.5,58,enhancement,CLOSED,Add buffer to the chart at front and bottom,https://github.com/enstenr/azolla-euas-frontend/issues/58
+,0.0,59,,CLOSED,Add calendly link,https://github.com/enstenr/azolla-euas-frontend/issues/59
+,15.0,67,enhancement,CLOSED,Working on Plugin support with 3rd Party,https://github.com/enstenr/azolla-euas-frontend/issues/67
+enstenr,4.0,68,,OPEN,Minor Enhancements,https://github.com/enstenr/azolla-euas-frontend/issues/68
+,0.5,69,enhancement,CLOSED,Let’s make the box colour(Graph and Requisition) lighter,https://github.com/enstenr/azolla-euas-frontend/issues/69
+,0.5,70,enhancement,CLOSED,"Also, let the default option for preferred delivery timeline be “End of day”",https://github.com/enstenr/azolla-euas-frontend/issues/70
+,,71,enhancement,OPEN,If Previous day's data is not available then show the last available data,https://github.com/enstenr/azolla-euas-frontend/issues/71
+,0.5,72,enhancement,CLOSED,Add a field Last udpated on,https://github.com/enstenr/azolla-euas-frontend/issues/72
